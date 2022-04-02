@@ -1,0 +1,51 @@
+{
+  "ID": 63456,
+  "name": "303 Creative LLC v. Elenis",
+  "href": "https://api.oyez.org/cases/2022/21-476",
+  "view_count": 0,
+  "docket_number": "21-476",
+  "additional_docket_numbers": null,
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "first_party": "303 Creative LLC",
+  "second_party": "Aubrey Elenis, et al.",
+  "timeline": [
+    {
+      "event": "Granted",
+      "dates": [
+        1645509600
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/55045"
+    }
+  ],
+  "lower_court": {
+    "ID": 14,
+    "name": "United States Court of Appeals for the Tenth Circuit",
+    "href": "https://api.oyez.org/taxonomy/term/14"
+  },
+  "facts_of_the_case": "<p>Lorie Smith is the owner and founder of a graphic design firm, 303 Creative LLC. She wants to expand her business to include wedding websites. However, she opposes same-sex marriage on religious grounds so does not want to design websites for same-sex weddings. She wants to post a message on her own website explaining her religious objections to same-sex weddings.</p>\n<p>The Colorado AntiDiscrimination Act (\u201cCADA\u201d) prohibits businesses that are open to the public from from discriminating on the basis of numerous characteristics, including sexual orientation. The law defines discrimination not only as refusing to provide goods or services, but also publishing any communication that says or implies that an individual\u2019s patronage is unwelcome because of a protected characteristic.</p>\n<p>Even before the state sought to enforce CADA against her, Smith and her company challenged the law in federal court, alleging numerous constitutional violations. The district court granted summary judgment for the state, and the U.S. Court of Appeals for the Tenth Circuit affirmed.</p>\n",
+  "question": "<p>Does application of the Colorado AntiDiscrimination Act to compel an artist to speak or stay silent violate the Free Speech Clause of the First Amendment?</p>\n",
+  "conclusion": null,
+  "advocates": null,
+  "oral_argument_audio": null,
+  "citation": {
+    "volume": null,
+    "page": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/27881"
+  },
+  "decisions": null,
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    null
+  ],
+  "decided_by": null,
+  "term": "2022",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the Court will decide whether applying a public-accommodation law to compel an artist to speak or stay silent violates the Free Speech Clause of the First Amendment. \u200b\u200b",
+  "written_opinion": null,
+  "related_cases": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/2022/21-476/",
+  "argument2_url": null
+}

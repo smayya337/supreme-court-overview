@@ -1,0 +1,51 @@
+{
+  "ID": 63462,
+  "name": "Haaland v. Brackeen",
+  "href": "https://api.oyez.org/cases/2022/21-376",
+  "view_count": 0,
+  "docket_number": "21-376",
+  "additional_docket_numbers": null,
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "first_party": "Deb Haaland, Secretary of the Interior, et al.",
+  "second_party": "Chat Everet Brackeen",
+  "timeline": [
+    {
+      "event": "Granted",
+      "dates": [
+        1646028000
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/55048"
+    }
+  ],
+  "lower_court": {
+    "ID": 10,
+    "name": "United States Court of Appeals for the Fifth Circuit",
+    "href": "https://api.oyez.org/taxonomy/term/10"
+  },
+  "facts_of_the_case": "<p>The Indian Child Welfare Act (ICWA), a federal law enacted in 1978, restricts the removal of Native American children from their families and establishes a preference that Native children who are removed from their families be placed with extended family members or Native foster homes.</p>\n<p>Several individuals and states filed a lawsuit challenging the law as violating constitutional anti-commandeering principles of the Tenth Amendment. The plaintiffs include several couples who wished to adopt or foster Native children, a woman who wished for her Native biological child to be adopted by non-Natives, and the states of Texas, Louisiana, and Indiana.</p>\n<p>The district court ruled for the plaintiffs, striking down portions of the\u00a0 ICWA. The defendants appealed, and a panel of the U.S. Court of Appeals for the Fifth Circuit reversed. In a fractured ruling, the Fifth Circuit sitting en banc upheld portions of the district court\u2019s decision and reversed other portions.</p>\n",
+  "question": "<p>Do the Indian Child Welfare Act\u2019s restrictions on placement of Native American children violate anti-commandeering principles of the Tenth Amendment?</p>\n",
+  "conclusion": null,
+  "advocates": null,
+  "oral_argument_audio": null,
+  "citation": {
+    "volume": null,
+    "page": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/27884"
+  },
+  "decisions": null,
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    null
+  ],
+  "decided_by": null,
+  "term": "2022",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the Court will review the constitutionality of the Indian Child Welfare Act.",
+  "written_opinion": null,
+  "related_cases": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/2022/21-376/",
+  "argument2_url": null
+}

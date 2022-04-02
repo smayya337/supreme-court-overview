@@ -1,0 +1,51 @@
+{
+  "ID": 63449,
+  "name": "George v. McDonough",
+  "href": "https://api.oyez.org/cases/2021/21-234",
+  "view_count": 0,
+  "docket_number": "21-234",
+  "additional_docket_numbers": null,
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "first_party": "Kevin R. George",
+  "second_party": "Denis R. McDonough",
+  "timeline": [
+    {
+      "event": "Granted",
+      "dates": [
+        1642140000
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/55033"
+    }
+  ],
+  "lower_court": {
+    "ID": 17,
+    "name": "United States Court of Appeals for the Federal Circuit",
+    "href": "https://api.oyez.org/taxonomy/term/17"
+  },
+  "facts_of_the_case": "<p>Kevin R. George and Michael B. Martin are both military veterans who sought and were denied disability benefits several decades ago based on the straightforward application of a regulation. Since then, the regulation was overturned, so George and Martin sought revision of those denial decisions based on the \u201cclear and unmistakable error\u201d (CUE) by the VA.</p>\n<p>The Board of Veterans\u2019 Appeals denied the motions, holding that it was not clear and unmistakable error to faithfully apply a regulation that existed at the time. The U.S. Court of Appeals for the Federal Circuit affirmed.</p>\n",
+  "question": "<p>When the Department of Veterans Affairs denies a veteran\u2019s claim for benefits in reliance on an agency interpretation later deemed invalid under the plain text of the statutory provisions in effect at the time of the denial, is that the kind of \u201cclear and unmistakable error\u201d that the veteran may invoke to challenge the VA\u2019s decision?</p>\n",
+  "conclusion": null,
+  "advocates": null,
+  "oral_argument_audio": null,
+  "citation": {
+    "volume": null,
+    "page": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/27874"
+  },
+  "decisions": null,
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    null
+  ],
+  "decided_by": null,
+  "term": "2021",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the Court will clarify what \u201cclear and unmistakable error\u201d means in the context of a veteran\u2019s challenge of a denial of benefits by the Department of Veterans Affairs.",
+  "written_opinion": null,
+  "related_cases": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/2021/21-234/",
+  "argument2_url": null
+}

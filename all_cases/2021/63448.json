@@ -1,0 +1,51 @@
+{
+  "ID": 63448,
+  "name": "Kennedy v. Bremerton School District",
+  "href": "https://api.oyez.org/cases/2021/21-418",
+  "view_count": 0,
+  "docket_number": "21-418",
+  "additional_docket_numbers": null,
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "first_party": "Joseph A. Kennedy",
+  "second_party": "Bremerton School District",
+  "timeline": [
+    {
+      "event": "Granted",
+      "dates": [
+        1642140000
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/55032"
+    }
+  ],
+  "lower_court": {
+    "ID": 5,
+    "name": "United States Court of Appeals for the Ninth Circuit",
+    "href": "https://api.oyez.org/taxonomy/term/5"
+  },
+  "facts_of_the_case": "<p>Joseph Kennedy, a high school football coach, engaged in prayer with a number of students during and after school games. His employer, the Bremerton School District, asked that he discontinue the practice in order to protect the school from a lawsuit based on violation of the Engagement Clause. Kennedy refused and instead rallied local and national television, print media, and social media to support him.</p>\n<p>Kennedy sued the school district for violating his rights under the First Amendment and Title VII of the Civil Rights Act of 1964. The district court held that because the school district suspended him solely because of the risk of constitutional liability associated with his religious conduct, its actions were justified. Kennedy appealed, and the U.S. Court of Appeals for the Ninth Circuit affirmed.</p>\n",
+  "question": "<p>Is a public school employee\u2019s prayer during school sports activities protected speech, and if so, can the public school employer prohibit it to avoid violating the Establishment Clause?</p>\n",
+  "conclusion": null,
+  "advocates": null,
+  "oral_argument_audio": null,
+  "citation": {
+    "volume": null,
+    "page": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/27873"
+  },
+  "decisions": null,
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    null
+  ],
+  "decided_by": null,
+  "term": "2021",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the Court will consider whether a public school\u2019s attempt to avoid an Establishment Clause claim by forbidding a coach from praying with students during and after a game violates the coach\u2019s rights under the Constitution or Title VII.",
+  "written_opinion": null,
+  "related_cases": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/2021/21-418/",
+  "argument2_url": null
+}

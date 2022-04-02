@@ -1,0 +1,51 @@
+{
+  "ID": 63438,
+  "name": "Siegel v. Fitzgerald",
+  "href": "https://api.oyez.org/cases/2021/21-441",
+  "view_count": 0,
+  "docket_number": "21-441",
+  "additional_docket_numbers": null,
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "first_party": "Alfred H. Siegel",
+  "second_party": "John P. Fitzgerald, III",
+  "timeline": [
+    {
+      "event": "Granted",
+      "dates": [
+        1641794400
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/55023"
+    }
+  ],
+  "lower_court": {
+    "ID": 9,
+    "name": "United States Court of Appeals for the Fourth Circuit",
+    "href": "https://api.oyez.org/taxonomy/term/9"
+  },
+  "facts_of_the_case": "<p>Since 1978, bankruptcy courts in the United States have operated under two programs for the handling of their proceedings \u2014 the Trustee program and the Bankruptcy Administrator program. Eighty-eight of the 94 judicial districts operate within the Trustee program, while the other districts (in Alabama and North Carolina) are under the Bankruptcy Administrator program. The former is part of the Department of Justice, while the latter is overseen by the Judicial Council of the United States.</p>\n<p>Each program is also funded differently. The Bankruptcy Administrator program is funded by the judiciary's general budget, whereas the bankruptcy debtors in Trustee districts primarily fund the Trustee program. All Chapter 11 debtors, regardless of district, paid quarterly fees under a consistent formula until January 1, 2018, at which time the Trustee program experienced a funding deficit. To remedy that deficit, Congress passed the 2017 Amendment, which increased the quarterly fees for larger Chapter 11 cases in the Trustee program.</p>\n<p>In 2008, Circuit City\u2014then a national chain of consumer electronics retail stores throughout the United States\u2014filed for Chapter 11 bankruptcy protection in the Eastern District of Virginia, which is a Trustee district. As part of its liquidation plan, Circuit City was to pay fees to the U.S. Trustee until the close of bankruptcy. However, after the quarterly fees increased, Circuit City refused to pay the increased fees, arguing that the 2017 Amendment is unconstitutional because it creates nonuniform bankruptcy laws in violation of the Bankruptcy Clause of the Constitution.</p>\n<p>The Bankruptcy Court for the Eastern District of Virginia ruled for the Circuit City trustee, finding the 2017 Amendment violated the Bankruptcy Clause. The U.S. Court of Appeals for the Fourth Circuit reversed and remanded.</p>\n",
+  "question": "<p>Does the 2017 Amendment (part of the Bankruptcy Judgeship Act) violate the uniformity requirement of the Constitution's Bankruptcy Clause by increasing quarterly fees solely in districts under the U.S. Trustee program and not in those under the Bankruptcy Administrator program?</p>\n",
+  "conclusion": null,
+  "advocates": null,
+  "oral_argument_audio": null,
+  "citation": {
+    "volume": null,
+    "page": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/27869"
+  },
+  "decisions": null,
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    null
+  ],
+  "decided_by": null,
+  "term": "2021",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the Court will decide whether the Bankruptcy Judgeship Act violates the uniformity requirement of the Constitution's Bankruptcy Clause by increasing quarterly fees solely in districts under the U.S. Trustee program and not in those under the Bankruptcy Administrator program.",
+  "written_opinion": null,
+  "related_cases": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/2021/21-441/",
+  "argument2_url": null
+}

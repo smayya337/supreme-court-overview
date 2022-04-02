@@ -1,0 +1,51 @@
+{
+  "ID": 63439,
+  "name": "Kemp v. United States",
+  "href": "https://api.oyez.org/cases/2021/21-5726",
+  "view_count": 0,
+  "docket_number": "21-5726",
+  "additional_docket_numbers": null,
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "first_party": "Dexter Earl Kemp",
+  "second_party": "United States of America",
+  "timeline": [
+    {
+      "event": "Granted",
+      "dates": [
+        1641794400
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/55024"
+    }
+  ],
+  "lower_court": {
+    "ID": 15,
+    "name": "United States Court of Appeals for the Eleventh Circuit",
+    "href": "https://api.oyez.org/taxonomy/term/15"
+  },
+  "facts_of_the_case": "<p>Dexter Kemp and several co-defendants were charged and convicted of drug and firearms offenses. Kemp and some of the co-defendants appealed, but their sentences were affirmed. Some of the co-defendants, without Kemp, filed petitions for rehearings, rehearings en banc, and certiorari in the U.S. Supreme Court. Over a year later, Kemp moved to vacate his sentence under Federal Rule of Civil Procedure 60(b), arguing ineffective assistance of counsel. The court denied his motion as untimely under 28 U.S.C. \u00a7 2255(f). Kemp argued that his petition was timely under Supreme Court Rule 13.3, which provides that if a petition for rehearing is timely filed in the lower court, the time to file the petition for a writ of certiorari runs from the date of the denial of rehearing. The court denied his motion, finding that it fell under Rule 60(b)(1) because it alleged the court made a \u201cmistake,\u201d and that such motions must be filed within one year.</p>\n",
+  "question": "<p>Does Federal Rule of Civil Procedure 60(b)(1) authorize relief based on a district court\u2019s error of law?</p>\n",
+  "conclusion": null,
+  "advocates": null,
+  "oral_argument_audio": null,
+  "citation": {
+    "volume": null,
+    "page": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/27870"
+  },
+  "decisions": null,
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    null
+  ],
+  "decided_by": null,
+  "term": "2021",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the Court will decide whether Federal Rule of Civil Procedure 60(b)(1) authorizes relief based on a district court\u2019s error of law.",
+  "written_opinion": null,
+  "related_cases": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/2021/21-5726/",
+  "argument2_url": null
+}

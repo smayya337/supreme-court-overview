@@ -1,0 +1,51 @@
+{
+  "ID": 63455,
+  "name": "Sackett v. Environmental Protection Agency",
+  "href": "https://api.oyez.org/cases/2022/21-454",
+  "view_count": 0,
+  "docket_number": "21-454",
+  "additional_docket_numbers": null,
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "first_party": "Michael Sackett and Chantelle Sackett",
+  "second_party": "Environmental Protection Agency",
+  "timeline": [
+    {
+      "event": "Granted",
+      "dates": [
+        1643004000
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/55039"
+    }
+  ],
+  "lower_court": {
+    "ID": 5,
+    "name": "United States Court of Appeals for the Ninth Circuit",
+    "href": "https://api.oyez.org/taxonomy/term/5"
+  },
+  "facts_of_the_case": "<p>Michael and Chantall Sackett own a residential lot near Priest Lake, Idaho, and want to build a home there. However, shortly after they began placing sand and gravel, the federal Environmental Protection Agency told them that they could not build on their lot because construction on the land violated the Clean Water Act. According to the EPA, the Sacketts\u2019 lot contained wetlands that qualify as \u201cnavigable waters\u201d regulated by the Act, so they needed to remove the sand and gravel and restore the property to its natural state.</p>\n<p>Litigation ensued, and in 2012, the Supreme Court permitted the Sacketts to litigate their challenge to the EPA\u2019s order in federal court. During the litigation, the EPA removed its compliance order.</p>\n<p>The U.S. Court of Appeals for the Ninth Circuit held that the EPA\u2019s withdrawal of the compliance order did not render the Sacketts\u2019 challenge moot and that the EPA does have jurisdiction over their property under the Clean Water Act. The court reasoned that, under binding circuit precedent, \u201cjurisdiction over wetlands depends upon the existence of a significant nexus between the wetlands in question and navigable waters in the traditional sense.\u201d</p>\n",
+  "question": "<p>What is the proper test for determining whether wetlands are \u201cwaters of the United States\u201d under the Clean Water Act?\u00a0</p>\n",
+  "conclusion": null,
+  "advocates": null,
+  "oral_argument_audio": null,
+  "citation": {
+    "volume": null,
+    "page": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/27880"
+  },
+  "decisions": null,
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    null
+  ],
+  "decided_by": null,
+  "term": "2022",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the Court will clarify the proper test for determining whether wetlands are \u201cwaters of the United States\u201d under the Clean Water Act.",
+  "written_opinion": null,
+  "related_cases": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/2022/21-454/",
+  "argument2_url": null
+}

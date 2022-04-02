@@ -1,0 +1,51 @@
+{
+  "ID": 63452,
+  "name": "Shoop v. Twyford",
+  "href": "https://api.oyez.org/cases/2021/21-511",
+  "view_count": 0,
+  "docket_number": "21-511",
+  "additional_docket_numbers": null,
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "first_party": "Tim Shoop, Warden",
+  "second_party": "Raymond Twyford",
+  "timeline": [
+    {
+      "event": "Granted",
+      "dates": [
+        1642140000
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/55036"
+    }
+  ],
+  "lower_court": {
+    "ID": 11,
+    "name": "United States Court of Appeals for the Sixth Circuit",
+    "href": "https://api.oyez.org/taxonomy/term/11"
+  },
+  "facts_of_the_case": "<p>In 1993, an Ohio jury convicted Raymond Twyford of aggravated murder and sentenced him to death. Twyford unsuccessfully pursued direct appeals and also filed a federal habeas petition. In November 2018, Twyford asked the federal district court to allow him to undergo neurological imaging to substantiate allegations of neurological problems due to childhood abuse, neglect, and injuries. The district court granted Twyford\u2019s motion and ordered the prison warden to transport Twyford for his neurological imaging because the results might assist the court in exercising its habeas review. The warden appealed the order, and the U.S. Court of Appeals for the Sixth Circuit affirmed.</p>\n",
+  "question": "<p>May a federal district court order the transportation of a state prisoner to help him develop evidence for his habeas petition, even before determining the admissibility of the evidence?</p>\n",
+  "conclusion": null,
+  "advocates": null,
+  "oral_argument_audio": null,
+  "citation": {
+    "volume": null,
+    "page": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/27877"
+  },
+  "decisions": null,
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    null
+  ],
+  "decided_by": null,
+  "term": "2021",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the Court will decide the scope of a court\u2019s role in allowing an inmate to develop evidence for a petition for a writ of habeas corpus.",
+  "written_opinion": null,
+  "related_cases": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/2021/21-511/",
+  "argument2_url": null
+}

@@ -1,0 +1,47 @@
+{
+  "ID": 63461,
+  "name": "Delaware v. Pennsylvania and Wisconsin",
+  "href": "https://api.oyez.org/cases/2022/22o145",
+  "view_count": 0,
+  "docket_number": "22O145",
+  "additional_docket_numbers": null,
+  "manner_of_jurisdiction": "Original jurisdiction",
+  "first_party": "State of Delaware",
+  "second_party": "Commonwealth of Pennsylvania and State of Wisconsin",
+  "timeline": [
+    {
+      "event": "Exceptions to Special Master Report - set for oral argument",
+      "dates": [
+        1645509600
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/55047"
+    }
+  ],
+  "lower_court": null,
+  "facts_of_the_case": "<p>MoneyGram Payments Systems, which is headquartered in Delaware, returns unclaimed checks to that state. Pennsylvania and Wisconsin argue that the checks are \u201cmoney orders\u201d or \u201csimilar written instruments,\u201d which federal law requires to go to the states where they were purchased.</p>\n<p>Invoking the U.S. Supreme Court\u2019s jurisdiction over interstate disputes, Delaware filed the case directly in the Supreme Court. The Court appointed a special master, who concluded that MoneyGram\u2019s checks are \u201cmoney orders\u201d or \u201csimilar written instruments\u201d and thus should go to the states where they were purchased. Delaware asked the Court to review the Special Master\u2019s findings for error.</p>\n",
+  "question": "<p>Are unclaimed MoneyGram checks \u201cmoney orders\u201d or \u201csimilar written instruments\u201d and thus subject to a federal law that remits them to the states where they were purchased?</p>\n",
+  "conclusion": null,
+  "advocates": null,
+  "oral_argument_audio": null,
+  "citation": {
+    "volume": null,
+    "page": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/27883"
+  },
+  "decisions": null,
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    null
+  ],
+  "decided_by": null,
+  "term": "2022",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the Court will decide which state is entitled to unclaimed or uncashed checks issued by MoneyGram Payments Systems.",
+  "written_opinion": null,
+  "related_cases": null,
+  "justia_url": null,
+  "argument2_url": null
+}

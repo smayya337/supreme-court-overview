@@ -1,0 +1,51 @@
+{
+  "ID": 63451,
+  "name": "Nance v. Ward",
+  "href": "https://api.oyez.org/cases/2021/21-439",
+  "view_count": 0,
+  "docket_number": "21-439",
+  "additional_docket_numbers": null,
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "first_party": "Michael Nance",
+  "second_party": "Commissioner, Georgia Department of Corrections and Warden, Georgia Diagnostic and Classification Prison",
+  "timeline": [
+    {
+      "event": "Granted",
+      "dates": [
+        1642140000
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/55035"
+    }
+  ],
+  "lower_court": {
+    "ID": 15,
+    "name": "United States Court of Appeals for the Eleventh Circuit",
+    "href": "https://api.oyez.org/taxonomy/term/15"
+  },
+  "facts_of_the_case": "<p>In 1993, Michael Wade Nance robbed a bank, and, in the process of fleeing, killed a person. In 1997, a jury convicted Nance of murder, and he was sentenced to death. The Georgia Supreme Court affirmed his death sentence and rejected a petition for collateral relief. Nance then filed a federal habeas petition; the district court denied the petition, and the U.S. Court of Appeals for the Eleventh Circuit affirmed.</p>\n<p>Then, in 2020, Nance filed an action under 42 U.S.C. \u00a7 1983 alleging that the State\u2019s lethal-injection protocol was unconstitutional as applied to him because of two medical issues. The district court granted the State\u2019s motion to dismiss Nance\u2019s complaint, concluding that it was untimely and failed to state a claim. On appeal, the U.S. Court of Appeals concluded that because the relief Nance sought implied the invalidity of his death sentence, his complaint must be construed as a habeas petition, and because he had already filed an earlier habeas petition, it was properly considered a \u201csuccessive\u201d petition, over which a district court lacks subject-matter jurisdiction.</p>\n",
+  "question": "<p>What is the proper legal procedure for a death-row inmate\u2019s challenge to the method by which the state intends to execute?</p>\n",
+  "conclusion": null,
+  "advocates": null,
+  "oral_argument_audio": null,
+  "citation": {
+    "volume": null,
+    "page": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/27876"
+  },
+  "decisions": null,
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    null
+  ],
+  "decided_by": null,
+  "term": "2021",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the Court will decide under what legal procedure an inmate may challenge the method by which the state intends to execute him.",
+  "written_opinion": null,
+  "related_cases": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/2021/21-439/",
+  "argument2_url": null
+}

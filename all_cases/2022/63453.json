@@ -1,0 +1,53 @@
+{
+  "ID": 63453,
+  "name": "Students for Fair Admissions v. President and Fellows of Harvard College",
+  "href": "https://api.oyez.org/cases/2022/20-1199",
+  "view_count": 0,
+  "docket_number": "20-1199",
+  "additional_docket_numbers": [
+    "21-707"
+  ],
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "first_party": "Students for Fair Admissions, Inc.",
+  "second_party": "President & Fellows of Harvard College",
+  "timeline": [
+    {
+      "event": "Granted",
+      "dates": [
+        1643004000
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/55037"
+    }
+  ],
+  "lower_court": {
+    "ID": 6,
+    "name": "United States Court of Appeals for the First Circuit",
+    "href": "https://api.oyez.org/taxonomy/term/6"
+  },
+  "facts_of_the_case": "<p>Petitioner Students for Fair Admissions (SFFA) sued Harvard College over its admissions process, alleging that the process violates Title VI of the Civil Rights Act of 1964 by discriminating against Asian American applicants in favor of white applicants. Harvard admits that it uses race as one of many factors in its admissions process but argues that its process adheres to the requirements for race-based admissions outlined in the Supreme Court\u2019s decision in Grutter v. Bollinger.</p>\n<p>After a 15-day bench trial, the district court issued a detailed opinion in favor of Harvard. SFFA appealed, and the U.S. Court of Appeals for the First Circuit affirmed.</p>\n<p>The case was consolidated for oral argument with a similar case challenging the admissions policies at the University of North Carolina.</p>\n",
+  "question": "<p>May institutions of higher education use race as a factor in admissions, contrary to the Court\u2019s prior ruling in Grutter v. Bollinger?\u00a0If so, does Harvard College\u2019s race-conscious admissions process violate Title VI of the Civil Rights Act of 1964?</p>\n",
+  "conclusion": null,
+  "advocates": null,
+  "oral_argument_audio": null,
+  "citation": {
+    "volume": null,
+    "page": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/27878"
+  },
+  "decisions": null,
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    null
+  ],
+  "decided_by": null,
+  "term": "2022",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the Court will decide whether to overrule its decision in Grutter v. Bollinger and hold that institutions of higher education cannot use race as a factor in admissions.",
+  "written_opinion": null,
+  "related_cases": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/2022/20-1199/",
+  "argument2_url": null
+}

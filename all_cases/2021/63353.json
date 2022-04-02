@@ -1,0 +1,358 @@
+{
+  "ID": 63353,
+  "name": "Brown v. Davenport",
+  "href": "https://api.oyez.org/cases/2021/20-826",
+  "view_count": 0,
+  "docket_number": "20-826",
+  "additional_docket_numbers": null,
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "first_party": "Mike Brown, Acting Warden",
+  "second_party": "Ervine Davenport",
+  "timeline": [
+    {
+      "event": "Granted",
+      "dates": [
+        1617598800
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/54878"
+    },
+    {
+      "event": "Argued",
+      "dates": [
+        1633410000
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/54955"
+    }
+  ],
+  "lower_court": {
+    "ID": 11,
+    "name": "United States Court of Appeals for the Sixth Circuit",
+    "href": "https://api.oyez.org/taxonomy/term/11"
+  },
+  "facts_of_the_case": "<p>A Michigan jury convicted Ervine Lee Davenport of first-degree murder in 2008. He challenged his conviction in a habeas corpus petition under 28 U.S.C. \u00a7 2254 because at trial he was restrained at the waist, wrist, and ankles, although there was a privacy curtain around the defense table. The State admitted that the visible restraints were unconstitutional but argued that the error was harmless. The Michigan Court of Appeals agreed, finding that while it was error for the trial court to order the defendant to be restrained without justification, Davenport had not shown that his restraints were visible to the jury and thus failed to show prejudice. The Michigan Supreme Court reversed and remanded, and on remand, five jurors testified that they saw the shackles and two others had heard comments about the shackles.</p>\n<p>Nevertheless, the trial court concluded that although some jurors saw the shackles, the prosecution had proved beyond a reasonable doubt that the shackling did not affect the jury\u2019s verdict. The court of appeals affirmed, and the Michigan Supreme Court denied leave to appeal. Davenport challenged the conviction in federal court, and the district court denied the petition and certificate of appealability. Davenport petitioned the U.S. Court of Appeals for the Sixth Circuit for a certificate of appealability, which the court granted. Noting that \u201cshackling is inherently prejudicial,\u201d the Sixth Circuit concluded that the State had not met its burden to show that the restraints did not have a \u201csubstantial and injurious effect or influence in determining the jury\u2019s verdict\u201d and reversed.</p>\n",
+  "question": "<p>What is the appropriate standard of review for a federal court deciding whether to grant habeas relief?</p>\n",
+  "conclusion": null,
+  "advocates": [
+    {
+      "advocate": {
+        "ID": 63391,
+        "name": "Fadwa A. Hammoud",
+        "href": "https://api.oyez.org/people/fadwa_a_hammoud",
+        "view_count": 0,
+        "last_name": "Hammoud",
+        "roles": null,
+        "thumbnail": null,
+        "length_of_service": 0,
+        "identifier": "fadwa_a_hammoud"
+      },
+      "advocate_description": "For the Petitioner",
+      "href": "https://api.oyez.org/case_advocate/case_advocate/23072"
+    },
+    {
+      "advocate": {
+        "ID": 63392,
+        "name": "Tasha Bahal",
+        "href": "https://api.oyez.org/people/tasha_bahal",
+        "view_count": 0,
+        "last_name": "Bahal",
+        "roles": null,
+        "thumbnail": null,
+        "length_of_service": 0,
+        "identifier": "tasha_bahal"
+      },
+      "advocate_description": "For the Respondent",
+      "href": "https://api.oyez.org/case_advocate/case_advocate/23073"
+    }
+  ],
+  "oral_argument_audio": [
+    {
+      "id": 25228,
+      "title": "Oral Argument - October 05, 2021",
+      "public_note": null,
+      "unavailable": false,
+      "display_title": null,
+      "href": "https://api.oyez.org/case_media/oral_argument_audio/25228"
+    }
+  ],
+  "citation": {
+    "volume": null,
+    "page": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/27814"
+  },
+  "decisions": null,
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    {
+      "ID": 63283,
+      "name": "Roberts Court (2020-)",
+      "href": "https://api.oyez.org/courts/roberts12",
+      "view_count": 0,
+      "members": [
+        {
+          "ID": 15086,
+          "name": "John G. Roberts, Jr.",
+          "href": "https://api.oyez.org/people/john_g_roberts_jr",
+          "view_count": 0,
+          "last_name": "Roberts",
+          "roles": [
+            {
+              "id": 2730,
+              "type": "scotus_justice",
+              "date_start": 1127970000,
+              "date_end": 0,
+              "appointing_president": "George W. Bush",
+              "role_title": "Chief Justice of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2730"
+            }
+          ],
+          "thumbnail": {
+            "id": 32683,
+            "mime": "image/png",
+            "size": 52305,
+            "href": "https://api.oyez.org/sites/default/files/images/people/john_g_roberts_jr/john_g_roberts_jr.thumb.png"
+          },
+          "length_of_service": 5877,
+          "identifier": "john_g_roberts_jr"
+        },
+        {
+          "ID": 15100,
+          "name": "Clarence Thomas",
+          "href": "https://api.oyez.org/people/clarence_thomas",
+          "view_count": 0,
+          "last_name": "Thomas",
+          "roles": [
+            {
+              "id": 2744,
+              "type": "scotus_justice",
+              "date_start": 688194000,
+              "date_end": 0,
+              "appointing_president": "George H. W. Bush",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2744"
+            }
+          ],
+          "thumbnail": {
+            "id": 32680,
+            "mime": "image/png",
+            "size": 49064,
+            "href": "https://api.oyez.org/sites/default/files/images/people/clarence_thomas/clarence_thomas.thumb.png"
+          },
+          "length_of_service": 10669,
+          "identifier": "clarence_thomas"
+        },
+        {
+          "ID": 15139,
+          "name": "Stephen G. Breyer",
+          "href": "https://api.oyez.org/people/stephen_g_breyer",
+          "view_count": 0,
+          "last_name": "Breyer",
+          "roles": [
+            {
+              "id": 2785,
+              "type": "scotus_justice",
+              "date_start": 775890000,
+              "date_end": 0,
+              "appointing_president": "Bill Clinton",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2785"
+            }
+          ],
+          "thumbnail": {
+            "id": 32682,
+            "mime": "image/png",
+            "size": 49908,
+            "href": "https://api.oyez.org/sites/default/files/images/people/stephen_g_breyer/stephen_g_breyer.thumb.png"
+          },
+          "length_of_service": 9654,
+          "identifier": "stephen_g_breyer"
+        },
+        {
+          "ID": 15068,
+          "name": "Samuel A. Alito, Jr.",
+          "href": "https://api.oyez.org/people/samuel_a_alito_jr",
+          "view_count": 0,
+          "last_name": "Alito",
+          "roles": [
+            {
+              "id": 2712,
+              "type": "scotus_justice",
+              "date_start": 1138687200,
+              "date_end": 0,
+              "appointing_president": "George W. Bush",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2712"
+            }
+          ],
+          "thumbnail": {
+            "id": 32684,
+            "mime": "image/png",
+            "size": 44799,
+            "href": "https://api.oyez.org/sites/default/files/images/people/samuel_alito_jr/samuel_alito_jr.thumb.png"
+          },
+          "length_of_service": 5455,
+          "identifier": "samuel_a_alito_jr"
+        },
+        {
+          "ID": 15131,
+          "name": "Sonia Sotomayor",
+          "href": "https://api.oyez.org/people/sonia_sotomayor",
+          "view_count": 0,
+          "last_name": "Sotomayor",
+          "roles": [
+            {
+              "id": 2776,
+              "type": "scotus_justice",
+              "date_start": 1249707600,
+              "date_end": 0,
+              "appointing_president": null,
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2776"
+            }
+          ],
+          "thumbnail": {
+            "id": 32685,
+            "mime": "image/png",
+            "size": 50379,
+            "href": "https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png"
+          },
+          "length_of_service": 4435,
+          "identifier": "sonia_sotomayor"
+        },
+        {
+          "ID": 15094,
+          "name": "Elena Kagan",
+          "href": "https://api.oyez.org/people/elena_kagan",
+          "view_count": 0,
+          "last_name": "Kagan",
+          "roles": [
+            {
+              "id": 2738,
+              "type": "scotus_justice",
+              "date_start": 1281157200,
+              "date_end": 0,
+              "appointing_president": "Barack Obama",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2738"
+            }
+          ],
+          "thumbnail": {
+            "id": 32690,
+            "mime": "image/png",
+            "size": 44456,
+            "href": "https://api.oyez.org/sites/default/files/images/people/elena_kagan/elena_kagan.thumb.png"
+          },
+          "length_of_service": 3806,
+          "identifier": "elena_kagan"
+        },
+        {
+          "ID": 62836,
+          "name": "Neil Gorsuch",
+          "href": "https://api.oyez.org/people/neil_gorsuch",
+          "view_count": 0,
+          "last_name": "Gorsuch",
+          "roles": [
+            {
+              "id": 3506,
+              "type": "scotus_justice",
+              "date_start": 1491541200,
+              "date_end": 0,
+              "appointing_president": "Donald J. Trump",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/3506"
+            }
+          ],
+          "thumbnail": {
+            "id": 79753,
+            "mime": "image/png",
+            "size": 121461,
+            "href": "https://api.oyez.org/sites/default/files/filefield_paths/neil_gorsuch.thumb__0.png"
+          },
+          "length_of_service": 1371,
+          "identifier": "neil_gorsuch"
+        },
+        {
+          "ID": 17766,
+          "name": "Brett M. Kavanaugh",
+          "href": "https://api.oyez.org/people/brett_m_kavanaugh",
+          "view_count": 0,
+          "last_name": "Kavanaugh",
+          "roles": [
+            {
+              "id": 3507,
+              "type": "scotus_justice",
+              "date_start": 1538802000,
+              "date_end": 0,
+              "appointing_president": "Donald J. Trump",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/3507"
+            }
+          ],
+          "thumbnail": {
+            "id": 80518,
+            "mime": "image/png",
+            "size": 91566,
+            "href": "https://api.oyez.org/sites/default/files/filefield_paths/Kavanaugh-thumb.png"
+          },
+          "length_of_service": 824,
+          "identifier": "brett_m_kavanaugh"
+        },
+        {
+          "ID": 63282,
+          "name": "Amy Coney Barrett",
+          "href": "https://api.oyez.org/people/amy_coney_barrett",
+          "view_count": 0,
+          "last_name": "Barrett",
+          "roles": [
+            {
+              "id": 3511,
+              "type": "scotus_justice",
+              "date_start": 1603774800,
+              "date_end": 0,
+              "appointing_president": "Donald J. Trump",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/3511"
+            }
+          ],
+          "thumbnail": {
+            "id": 81207,
+            "mime": "image/png",
+            "size": 47722,
+            "href": "https://api.oyez.org/sites/default/files/filefield_paths/barret-thumb.png"
+          },
+          "length_of_service": 197,
+          "identifier": "amy_coney_barrett"
+        }
+      ],
+      "court_start": 1603774800,
+      "images": [
+        {
+          "id": 81210,
+          "mime": "image/jpeg",
+          "size": 634152,
+          "href": "https://api.oyez.org/sites/default/files/filefield_paths/Roberts12_0.jpg"
+        }
+      ],
+      "identifier": "roberts12"
+    }
+  ],
+  "decided_by": null,
+  "term": "2021",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the Court will decide how the \u201charmless error\u201d standard of review applies when a criminal defendant is seeking federal post-conviction relief.",
+  "written_opinion": null,
+  "related_cases": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/2021/20-826/",
+  "argument2_url": null
+}

@@ -1,0 +1,51 @@
+{
+  "ID": 63454,
+  "name": "Axon Enterprise, Inc. v. Federal Trade Commission",
+  "href": "https://api.oyez.org/cases/2022/21-86",
+  "view_count": 0,
+  "docket_number": "21-86",
+  "additional_docket_numbers": null,
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "first_party": "Axon Enterprise, Inc.",
+  "second_party": "Federal Trade Commission, et al.",
+  "timeline": [
+    {
+      "event": "Granted",
+      "dates": [
+        1643004000
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/55038"
+    }
+  ],
+  "lower_court": {
+    "ID": 5,
+    "name": "United States Court of Appeals for the Ninth Circuit",
+    "href": "https://api.oyez.org/taxonomy/term/5"
+  },
+  "facts_of_the_case": "<p>Axon Enterprises manufactures personal body cameras for law enforcement. In 2018, it acquired a competitor body camera company called Vievu. After the acquisition, the Federal Trade Commission informed Axon that the transaction raised antitrust concerns and that the Commission would be investigating.</p>\n<p>At the end of 2019, the FTC informed Axon of its demands, which it could either accede or face administrative proceedings. Axon filed a lawsuit in federal district court alleging that (1) the FTC\u2019s administrative proceeding violates Axon\u2019s Fifth Amendment due process rights, (2) the FTC\u2019s structure violates Article II by providing improper insulation from the President, and (3) Axon\u2019s acquisition of Vievu did not violate antitrust law.</p>\n<p>The district court dismissed Axon\u2019s complaint, holding that the FTC\u2019s statutory scheme required Axon to raise its constitutional challenge first in the administrative proceeding. The U.S. Court of Appeals for the Ninth Circuit affirmed, finding that Congress impliedly barred jurisdiction in federal district court.</p>\n",
+  "question": "<p>Do federal courts have jurisdiction to hear constitutional challenges to the Federal Trade Commission\u2019s structure, procedure, and existence, or must such challenges be raised first in the administrative proceeding?</p>\n",
+  "conclusion": null,
+  "advocates": null,
+  "oral_argument_audio": null,
+  "citation": {
+    "volume": null,
+    "page": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/27879"
+  },
+  "decisions": null,
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    null
+  ],
+  "decided_by": null,
+  "term": "2022",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the Court will decide whether federal district courts have jurisdiction to hear constitutional challenges to the Federal Trade Commission\u2019s structure, procedure, and existence.",
+  "written_opinion": null,
+  "related_cases": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/2022/21-86/",
+  "argument2_url": null
+}

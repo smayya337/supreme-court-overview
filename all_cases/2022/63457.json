@@ -1,0 +1,51 @@
+{
+  "ID": 63457,
+  "name": "Arellano v. McDonough",
+  "href": "https://api.oyez.org/cases/2022/21-432",
+  "view_count": 0,
+  "docket_number": "21-432",
+  "additional_docket_numbers": null,
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "first_party": "Adolfo R. Arellano",
+  "second_party": "Dennis McDonough, Secretary of Veterans Affairs",
+  "timeline": [
+    {
+      "event": "Granted",
+      "dates": [
+        1645509600
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/55046"
+    }
+  ],
+  "lower_court": {
+    "ID": 17,
+    "name": "United States Court of Appeals for the Federal Circuit",
+    "href": "https://api.oyez.org/taxonomy/term/17"
+  },
+  "facts_of_the_case": "<p>Adolfo R. Arellano served honorably in the Navy from November 1977 to October 1981. On June 3, 2011\u2014more than 30 years after he was discharged\u2014he applied for disability benefits on the basis of psychiatric disorders that rendered him 100% disabled. He sought retroactive benefits from the day after his discharge, arguing that the one-year filing deadline to submit disability claims should be extended in his case because his mental illness had prevented him from filing his claim earlier.</p>\n<p>The VA Regional Office granted his claim, but only from the date the claim was received. The Board of Appeals rejected his argument, and the Veterans Court affirmed that decision, concluding that Mr. Arellano's claim was \u201csquarely foreclosed by binding precedent\u201d in Andrews v. Principi, 351 F.3d 1134 (Fed. Cir. 2003), which held that principles of equitable tolling are not applicable to the time period in 38 U.S.C. \u00a7 5110(b)(1).</p>\n",
+  "question": "<p>Can the one-year filing deadline for veterans to submit disability claims after they are discharged be extended under principles of equitable tolling?</p>\n",
+  "conclusion": null,
+  "advocates": null,
+  "oral_argument_audio": null,
+  "citation": {
+    "volume": null,
+    "page": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/27882"
+  },
+  "decisions": null,
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    null
+  ],
+  "decided_by": null,
+  "term": "2022",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the Court will decide whether the one-year filing deadline for veterans to submit disability claims after they are discharged can be extended under principles of equitable tolling, or whether missing the deadline means forfeiture of retroactive disability benefits from the date they were discharged.",
+  "written_opinion": null,
+  "related_cases": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/2022/21-432/",
+  "argument2_url": null
+}

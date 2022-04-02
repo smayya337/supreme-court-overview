@@ -1,0 +1,51 @@
+{
+  "ID": 63474,
+  "name": "Cruz v. Arizona",
+  "href": "https://api.oyez.org/cases/2022/21-846",
+  "view_count": 0,
+  "docket_number": "21-846",
+  "additional_docket_numbers": null,
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "first_party": "John Montenegro Cruz",
+  "second_party": "Arizona",
+  "timeline": [
+    {
+      "event": "Granted",
+      "dates": [
+        1648443600
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/55068"
+    }
+  ],
+  "lower_court": {
+    "ID": 24,
+    "name": "Arizona Supreme Court",
+    "href": "https://api.oyez.org/taxonomy/term/24"
+  },
+  "facts_of_the_case": "<p>In 2005, a jury convicted John Montenegro Cruz of first-degree murder for the 2003 killing of a Tucson police officer and sentenced Cruz to death. The Arizona Supreme Court affirmed Cruz\u2019s conviction and sentence, and the U.S. Supreme Court denied his petition for a writ of certiorari.</p>\n<p>In 2012, Cruz filed a petition in state court for post-conviction relief, which the court dismissed, and the Arizona Supreme Court denied review.</p>\n<p>In 2014, Cruz initiated federal habeas proceedings. In 2016, while those proceedings were ongoing, the U.S. Supreme Court decided Lynch v. Arizona (Lynch II), holding that the Arizona Supreme Court had misapplied precedent. Cruz then filed a second petition for post-conviction relief. Ordinarily that second petition would be barred, but state law provides for an exception if there was an intervening \u201csignificant change in the the law.\u201d Cruz argued that the decision in Lynch II was a signficant change in the law, that it applies retroactively, and would probably overturn his sentence.</p>\n<p>The Arizona Supreme Court concluded that Lynch II was not a significant change in the law and was instead based on precedent well established at the time the defendant was convicted and sentenced.</p>\n",
+  "question": "<p>Is the Arizona Supreme Court\u2019s ruling that a state rule of criminal procedure precluded post-conviction relief an adequate and independent state-law ground for the judgment against him, thereby precluding review by a federal court?\u00a0</p>\n",
+  "conclusion": null,
+  "advocates": null,
+  "oral_argument_audio": null,
+  "citation": {
+    "volume": null,
+    "page": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/27886"
+  },
+  "decisions": null,
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    null
+  ],
+  "decided_by": null,
+  "term": "2022",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the Court will decide whether the Arizona Supreme Court\u2019s ruling that a state rule of criminal procedure precluded post-conviction relief is an adequate and independent state-law ground for the judgment against him. ",
+  "written_opinion": null,
+  "related_cases": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/2022/21-846/",
+  "argument2_url": null
+}

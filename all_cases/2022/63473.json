@@ -1,0 +1,51 @@
+{
+  "ID": 63473,
+  "name": "National Pork Producers Council v. Ross",
+  "href": "https://api.oyez.org/cases/2022/21-468",
+  "view_count": 0,
+  "docket_number": "21-468",
+  "additional_docket_numbers": null,
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "first_party": "National Pork Producers Council, et al.",
+  "second_party": "Karen Ross, in Her Official Capacity as Secretary of the California Department of Food & Agriculture, et al.",
+  "timeline": [
+    {
+      "event": "Granted",
+      "dates": [
+        1648443600
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/55067"
+    }
+  ],
+  "lower_court": {
+    "ID": 5,
+    "name": "United States Court of Appeals for the Ninth Circuit",
+    "href": "https://api.oyez.org/taxonomy/term/5"
+  },
+  "facts_of_the_case": "<p>In 2018, California voters passed Proposition 12, which amends the California Health and Safety Code to prohibit the sale of pork from animals confined in a manner inconsistent with California standards. Trade associations representing the pork industry and farmers challenged the law as violating the dormant Commerce Clause, which prohibits states from discriminating against interstate commerce or imposing undue burdens on interstate commerce.</p>\n<p>According to the challengers, Proposition 12 places an undue burden on interstate commerce and that it causes an impermissible \u201cextraterritorial effect\u201d because it effectively forces all or most hog farmers, regardless of their location, to comply with the California requirements yet mostly affects non-California transactions (because 87% of the pork produced in the country is consumed outside of California).</p>\n<p>The district court dismissed the complaint for failure to state a claim, and the U.S. Court of Appeals for the Ninth Circuit affirmed, finding the complaint did not plausibly plead that Proposition 12 violates the dormant Commerce Clause under either theory.</p>\n",
+  "question": "<p>Does a California law that prohibits the in-state sale of pork from animals confined in a manner inconsistent with California standards violate the \u201cdormant\u201d component of the Constitution\u2019s Commerce Clause?</p>\n",
+  "conclusion": null,
+  "advocates": null,
+  "oral_argument_audio": null,
+  "citation": {
+    "volume": null,
+    "page": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/27885"
+  },
+  "decisions": null,
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    null
+  ],
+  "decided_by": null,
+  "term": "2022",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the Court will decide whether a California law restricting the sale of pork within the state in a way that affects most or all commercial out-of-state farms violates the \u201cdormant\u201d component of the Commerce Clause.",
+  "written_opinion": null,
+  "related_cases": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/2022/21-468/",
+  "argument2_url": null
+}

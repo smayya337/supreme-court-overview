@@ -1,0 +1,51 @@
+{
+  "ID": 63475,
+  "name": "Andy Warhol Foundation for the Visual Arts, Inc. v. Goldsmith",
+  "href": "https://api.oyez.org/cases/2022/21-869",
+  "view_count": 0,
+  "docket_number": "21-869",
+  "additional_docket_numbers": null,
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "first_party": "Andy Warhol Foundation for the Visual Arts, Inc.",
+  "second_party": "Lynn Goldsmith, et al.",
+  "timeline": [
+    {
+      "event": "Granted",
+      "dates": [
+        1648443600
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/55069"
+    }
+  ],
+  "lower_court": {
+    "ID": 7,
+    "name": "United States Court of Appeals for the Second Circuit",
+    "href": "https://api.oyez.org/taxonomy/term/7"
+  },
+  "facts_of_the_case": "<p>Artist Andy Warhol created a series of silkscreen prints and pencil illustrations (\u201cPrince Series\u201d) based on a copyrighted 1981 photograph of the musician Prince, taken by Lynn Goldsmith. Warhol made some aesthetic changes to Goldsmith\u2019s original photograph, but they remained \u201crecognizably derived\u201d from the original.</p>\n<p>Goldsmith sued the Andy Warhol Foundation, successor to Warhol\u2019s copyright in the Prince Series, for copyright infringement. The Foundation raised fair use as a defense. The district court granted summary judgment for the Foundation, concluding that Warhol had \u201ctransformed\u201d the original photograph by giving it a new \u201cmeaning and message.\u201d The U.S. Court of Appeals for the Second Circuit, holding that because the Prince Series remained \u201crecognizably derived\u201d from the original, it failed to transform and was thus not fair use.</p>\n",
+  "question": "<p>What is the proper test for whether a work is \u201ctransformative\u201d under the first factor of the Copyright Act\u2019s fair use doctrine?</p>\n",
+  "conclusion": null,
+  "advocates": null,
+  "oral_argument_audio": null,
+  "citation": {
+    "volume": null,
+    "page": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/27887"
+  },
+  "decisions": null,
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    null
+  ],
+  "decided_by": null,
+  "term": "2022",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the Court will decide what it means for a work of art to be \u201ctransformative\u201d for purposes of the Copyright Act\u2019s fair use doctrine.",
+  "written_opinion": null,
+  "related_cases": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/2022/21-869/",
+  "argument2_url": null
+}

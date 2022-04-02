@@ -1,0 +1,51 @@
+{
+  "ID": 63450,
+  "name": "Vega v. Tekoh",
+  "href": "https://api.oyez.org/cases/2021/21-499",
+  "view_count": 0,
+  "docket_number": "21-499",
+  "additional_docket_numbers": null,
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "first_party": "Carlos Vega",
+  "second_party": "Terence B. Tekoh",
+  "timeline": [
+    {
+      "event": "Granted",
+      "dates": [
+        1642140000
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/55034"
+    }
+  ],
+  "lower_court": {
+    "ID": 5,
+    "name": "United States Court of Appeals for the Ninth Circuit",
+    "href": "https://api.oyez.org/taxonomy/term/5"
+  },
+  "facts_of_the_case": "<p>Terence Tekoh worked as a patient transporter in a hospital in Los Angeles. After a patient accused him of sexual assault, hospital staff reported the allegation to the Los Angeles Sheriff\u2019s Department. Deputy Carlos Vega went to the hospital to ask Tekoh some questions and to take Tekoh\u2019s statement. Although the parties described vastly different accounts of the nature of the interaction between Tekoh and Vega, it is undisputed that Vega did not advise Tekoh of his Miranda rights prior to questioning him or taking his statement.</p>\n<p>Tekoh was arrested and charged in California state court, but a jury returned a verdict of not guilty. Following the acquittal on the criminal charge, Tekoh sued Vega under 42 U.S.C. \u00a7 1983 alleging that Vega violated Tekoh\u2019s Fifth Amendment right against self-incrimination by taking his statement without first advising him of his Miranda rights.</p>\n<p>Based on the district court\u2019s instructions, a jury found for Vega. The U.S. Court of Appeals for the Ninth Circuit vacated the verdict, reversed the district court\u2019s judgment, and remanded the case for a new trial.</p>\n",
+  "question": "<p>Is the use of an un-Mirandized statement against a defendant in a criminal case sufficient support a 42 U.S.C. \u00a7 1983 action?</p>\n",
+  "conclusion": null,
+  "advocates": null,
+  "oral_argument_audio": null,
+  "citation": {
+    "volume": null,
+    "page": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/27875"
+  },
+  "decisions": null,
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    null
+  ],
+  "decided_by": null,
+  "term": "2021",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the Court will decide whether a plaintiff may state a claim for relief against a law enforcement officer under 42 U.S.C. \u00a7 1983 based on the officer\u2019s failure to provide Miranda warnings.",
+  "written_opinion": null,
+  "related_cases": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/2021/21-499/",
+  "argument2_url": null
+}
