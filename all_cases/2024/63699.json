@@ -1,0 +1,53 @@
+{
+  "ID": 63699,
+  "name": "Hewitt v. United States",
+  "href": "https://api.oyez.org/cases/2024/23-1002",
+  "view_count": 0,
+  "docket_number": "23-1002",
+  "additional_docket_numbers": [
+    "23-1150"
+  ],
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "first_party": "Tony R. Hewitt",
+  "second_party": "United States of America",
+  "timeline": [
+    {
+      "event": "Granted",
+      "dates": [
+        1719896400
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/55527"
+    }
+  ],
+  "lower_court": {
+    "ID": 10,
+    "name": "United States Court of Appeals for the Fifth Circuit",
+    "href": "https://api.oyez.org/taxonomy/term/10"
+  },
+  "facts_of_the_case": "<p>In 2009, Corey Deyon Duffey, Jarvis Dupree Ross, and Tony R. Hewitt were convicted of multiple counts of conspiracy, attempted bank robbery, bank robbery, and using firearms in furtherance of these crimes under 18 U.S.C. \u00a7 924(c). After appeals and resentencing, they received mandatory minimum sentences of 5 years for their first \u00a7 924(c) conviction and 25 years for each subsequent conviction, as per the law at that time which allowed \u201cstacking\u201d of these charges.</p>\n<p>In 2020, following the Supreme Court\u2019s decision in United States v. Davis, the appellants successfully filed for habeas relief. The district court vacated their \u00a7 924(c) conspiracy convictions and ordered resentencing. Before their resentencing in 2022, the appellants argued that \u00a7 403 of the First Step Act of 2018, which eliminated sentence stacking for \u00a7 924(c) convictions, should apply to their cases. The government initially opposed this view but later changed its position to support the application of \u00a7 403. The U.S. Court of Appeals for the Fifth Circuit rejected their challenges and affirmed the convictions.</p>\n",
+  "question": "<p>Does the First Step Act\u2019s sentencing reduction provision apply to a defendant whose original sentence was imposed before the Act\u2019s enactment, but was later vacated and resentenced after the Act took effect?</p>\n",
+  "conclusion": null,
+  "advocates": null,
+  "oral_argument_audio": null,
+  "citation": {
+    "volume": null,
+    "page": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/28033"
+  },
+  "decisions": null,
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    null
+  ],
+  "decided_by": null,
+  "term": "2024",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the Court will decide whether the First Step Act\u2019s sentencing reduction provisions apply to a defendant whose original sentence was imposed before the Act\u2019s enactment, then vacated and resentenced to a new term of imprisonment after the Act\u2019s enactment.",
+  "written_opinion": null,
+  "related_cases": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-1002/",
+  "argument2_url": null
+}

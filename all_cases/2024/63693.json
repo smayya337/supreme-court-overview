@@ -1,0 +1,51 @@
+{
+  "ID": 63693,
+  "name": "Dewberry Group, Inc. v. Dewberry Engineers Inc.",
+  "href": "https://api.oyez.org/cases/2024/23-900",
+  "view_count": 0,
+  "docket_number": "23-900",
+  "additional_docket_numbers": null,
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "first_party": "Dewberry Group, Inc.",
+  "second_party": "Dewberry Engineers Inc.",
+  "timeline": [
+    {
+      "event": "Granted",
+      "dates": [
+        1719205200
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/55481"
+    }
+  ],
+  "lower_court": {
+    "ID": 9,
+    "name": "United States Court of Appeals for the Fourth Circuit",
+    "href": "https://api.oyez.org/taxonomy/term/9"
+  },
+  "facts_of_the_case": "<p>Dewberry Engineers and Dewberry Group are two businesses in the real estate development industry that both use the \u201cDewberry\u201d name. In 2006, they confronted each other over their competing brands, leading to a lawsuit that was settled in 2007 with a confidential settlement agreement (CSA). The CSA allowed Dewberry Engineers to use its registered marks freely while strictly limiting Dewberry Group\u2019s use of \u201cDewberry.\u201d It prohibited Dewberry Group from challenging Dewberry Engineers\u2019 federal trademark registrations and required Dewberry Group to abandon pending applications for the \u201cDewberry Capital\u201d mark.</p>\n<p>In 2017, Dewberry Group decided to rebrand, changing its name from \u201cDewberry Capital\u201d to \"Dewberry Group\u201d and adopting several subbrands. Despite the CSA, Dewberry Group applied to register new \u201cDewberry\u201d marks with the U.S. Patent and Trademark Office (USPTO) for real estate-related services. The USPTO rejected these applications due to likelihood of confusion with Dewberry Engineers\u2019 marks. Dewberry Engineers sent cease-and-desist letters to Dewberry Group, claiming trademark infringement and breach of the CSA. Dewberry Group refused to abandon its applications, arguing that the CSA allowed its use of \u201cDewberry\u201d marks other than \u201cDewberry Capital\u201d for non-architectural services.</p>\n<p>The district court ruled in favor of Dewberry Engineers and ordered Dewberry Group to pay almost $43 million in disgorged profits for infringing on Dewberry Engineers\u2019 trademark. The district court also enjoined Dewberry Group from further violating its agreement with Dewberry Engineers and required Dewberry Group to pay Dewberry Engineers\u2019 attorney fees. The U.S. Court of Appeals for the Fourth Circuit affirmed.</p>\n",
+  "question": "<p>Does an award of the \u201cdefendant's profits\u201d under the Lanham Act allow a court to require the defendant to disgorge profits earned by legally separate, non-party corporate affiliates?</p>\n",
+  "conclusion": null,
+  "advocates": null,
+  "oral_argument_audio": null,
+  "citation": {
+    "volume": null,
+    "page": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/28027"
+  },
+  "decisions": null,
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    null
+  ],
+  "decided_by": null,
+  "term": "2024",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the Court will decide whether an award of the \u201cdefendant\u2019s profits\u201d under the Lanham Act can include an order for the defendant to disgorge the distinct profits of legally separate non-party corporate affiliates.",
+  "written_opinion": null,
+  "related_cases": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-900/",
+  "argument2_url": null
+}

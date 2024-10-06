@@ -1,0 +1,51 @@
+{
+  "ID": 63694,
+  "name": "Seven County Infrastructure Coalition v. Eagle County, Colorado",
+  "href": "https://api.oyez.org/cases/2024/23-975",
+  "view_count": 0,
+  "docket_number": "23-975",
+  "additional_docket_numbers": null,
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "first_party": "Seven County Infrastructure Coalition",
+  "second_party": "Eagle County, Colorado",
+  "timeline": [
+    {
+      "event": "Granted",
+      "dates": [
+        1719205200
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/55482"
+    }
+  ],
+  "lower_court": {
+    "ID": 16,
+    "name": "United States Court of Appeals for the District of Columbia Circuit",
+    "href": "https://api.oyez.org/taxonomy/term/16"
+  },
+  "facts_of_the_case": "<p>The Surface Transportation Board (STB) granted a petition from the Seven County Infrastructure Coalition to construct and operate an 80-mile railway in Utah\u2019s Uinta Basin. The railway\u2019s primary purpose would be to transport waxy crude oil from the basin to the national rail network. The STB conducted an environmental review process, including the preparation of an Environmental Impact Statement (EIS), as required by the National Environmental Policy Act (NEPA). The Board issued a final decision in December 2021, authorizing the construction and operation of the railway subject to environmental mitigation conditions.</p>\n<p>In its environmental analysis, the STB considered various impacts of the railway\u2019s construction and operation within the project area, including effects on water resources, air quality, special status species, land use, and local economies. However, the Board declined to analyze certain \u201cdownline impacts\u201d\u2014effects from increased train traffic on existing rail lines beyond the new railway. The STB also omitted analysis of other potential environmental effects, such as increased crude oil refining impacts on Gulf Coast communities, upline impacts of increased drilling in the Uinta Basin, and downline effects of potential oil spills along the Colorado River. Finally, the Board did not disclose the potential effects of the project on historic sites or structures along the Union Pacific line in Eagle County. The Board justified these omissions by arguing that minimal increases in train traffic on existing lines were unlikely to cause significant impacts, and that some effects were beyond the scope of its regulatory authority.</p>\n<p>Eagle County asked the U.S. Court of Appeals for the D.C. Circuit to review the Board\u2019s orders, and the granted the petitions in part, denied them in part, and vacated the underlying order.</p>\n",
+  "question": "<p>Does the National Environmental Policy Act require an agency to study environmental impacts beyond the proximate effects of the action over which the agency has regulatory authority?</p>\n",
+  "conclusion": null,
+  "advocates": null,
+  "oral_argument_audio": null,
+  "citation": {
+    "volume": null,
+    "page": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/28028"
+  },
+  "decisions": null,
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    null
+  ],
+  "decided_by": null,
+  "term": "2024",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the Court will decide whether the National Environmental Policy Act requires an agency to study environmental impacts beyond the proximate effects of the action over which the agency has regulatory authority.",
+  "written_opinion": null,
+  "related_cases": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-975/",
+  "argument2_url": null
+}

@@ -65,7 +65,7 @@
               "size": 52305,
               "href": "https://api.oyez.org/sites/default/files/images/people/john_g_roberts_jr/john_g_roberts_jr.thumb.png"
             },
-            "length_of_service": 5877,
+            "length_of_service": 6119,
             "identifier": "john_g_roberts_jr"
           },
           "vote": "none",
@@ -170,7 +170,7 @@
               "size": 49064,
               "href": "https://api.oyez.org/sites/default/files/images/people/clarence_thomas/clarence_thomas.thumb.png"
             },
-            "length_of_service": 10669,
+            "length_of_service": 11156,
             "identifier": "clarence_thomas"
           },
           "vote": "none",
@@ -227,7 +227,7 @@
                 "id": 2785,
                 "type": "scotus_justice",
                 "date_start": 775890000,
-                "date_end": 0,
+                "date_end": 1656565200,
                 "appointing_president": "Bill Clinton",
                 "role_title": "Associate Justice of the Supreme Court of the United States",
                 "institution_name": "Supreme Court of the United States",
@@ -240,7 +240,7 @@
               "size": 49908,
               "href": "https://api.oyez.org/sites/default/files/images/people/stephen_g_breyer/stephen_g_breyer.thumb.png"
             },
-            "length_of_service": 9654,
+            "length_of_service": 10193,
             "identifier": "stephen_g_breyer"
           },
           "vote": "none",
@@ -275,7 +275,7 @@
               "size": 44799,
               "href": "https://api.oyez.org/sites/default/files/images/people/samuel_alito_jr/samuel_alito_jr.thumb.png"
             },
-            "length_of_service": 5455,
+            "length_of_service": 5908,
             "identifier": "samuel_a_alito_jr"
           },
           "vote": "none",
@@ -298,7 +298,7 @@
                 "type": "scotus_justice",
                 "date_start": 1249707600,
                 "date_end": 0,
-                "appointing_president": null,
+                "appointing_president": "Barack Obama",
                 "role_title": "Associate Justice of the Supreme Court of the United States",
                 "institution_name": "Supreme Court of the United States",
                 "href": "https://api.oyez.org/preson_role/scotus_justice/2776"
@@ -310,7 +310,7 @@
               "size": 50379,
               "href": "https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png"
             },
-            "length_of_service": 4435,
+            "length_of_service": 4710,
             "identifier": "sonia_sotomayor"
           },
           "vote": "none",
@@ -345,7 +345,7 @@
               "size": 44456,
               "href": "https://api.oyez.org/sites/default/files/images/people/elena_kagan/elena_kagan.thumb.png"
             },
-            "length_of_service": 3806,
+            "length_of_service": 4259,
             "identifier": "elena_kagan"
           },
           "vote": "none",
@@ -398,7 +398,7 @@
           "size": 52305,
           "href": "https://api.oyez.org/sites/default/files/images/people/john_g_roberts_jr/john_g_roberts_jr.thumb.png"
         },
-        "length_of_service": 5877,
+        "length_of_service": 6119,
         "identifier": "john_g_roberts_jr"
       },
       {
@@ -479,7 +479,7 @@
           "size": 49064,
           "href": "https://api.oyez.org/sites/default/files/images/people/clarence_thomas/clarence_thomas.thumb.png"
         },
-        "length_of_service": 10669,
+        "length_of_service": 11156,
         "identifier": "clarence_thomas"
       },
       {
@@ -520,7 +520,7 @@
             "id": 2785,
             "type": "scotus_justice",
             "date_start": 775890000,
-            "date_end": 0,
+            "date_end": 1656565200,
             "appointing_president": "Bill Clinton",
             "role_title": "Associate Justice of the Supreme Court of the United States",
             "institution_name": "Supreme Court of the United States",
@@ -533,7 +533,7 @@
           "size": 49908,
           "href": "https://api.oyez.org/sites/default/files/images/people/stephen_g_breyer/stephen_g_breyer.thumb.png"
         },
-        "length_of_service": 9654,
+        "length_of_service": 10193,
         "identifier": "stephen_g_breyer"
       },
       {
@@ -560,7 +560,7 @@
           "size": 44799,
           "href": "https://api.oyez.org/sites/default/files/images/people/samuel_alito_jr/samuel_alito_jr.thumb.png"
         },
-        "length_of_service": 5455,
+        "length_of_service": 5908,
         "identifier": "samuel_a_alito_jr"
       },
       {
@@ -575,7 +575,7 @@
             "type": "scotus_justice",
             "date_start": 1249707600,
             "date_end": 0,
-            "appointing_president": null,
+            "appointing_president": "Barack Obama",
             "role_title": "Associate Justice of the Supreme Court of the United States",
             "institution_name": "Supreme Court of the United States",
             "href": "https://api.oyez.org/preson_role/scotus_justice/2776"
@@ -587,7 +587,7 @@
           "size": 50379,
           "href": "https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png"
         },
-        "length_of_service": 4435,
+        "length_of_service": 4710,
         "identifier": "sonia_sotomayor"
       },
       {
@@ -614,7 +614,7 @@
           "size": 44456,
           "href": "https://api.oyez.org/sites/default/files/images/people/elena_kagan/elena_kagan.thumb.png"
         },
-        "length_of_service": 3806,
+        "length_of_service": 4259,
         "identifier": "elena_kagan"
       }
     ],

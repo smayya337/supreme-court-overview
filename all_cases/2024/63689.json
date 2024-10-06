@@ -1,0 +1,51 @@
+{
+  "ID": 63689,
+  "name": "United States v. Skrmetti",
+  "href": "https://api.oyez.org/cases/2024/23-477",
+  "view_count": 0,
+  "docket_number": "23-477",
+  "additional_docket_numbers": null,
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "first_party": "United States of America",
+  "second_party": "Jonathan Skrmetti, Attorney General and Reporter for Tennessee",
+  "timeline": [
+    {
+      "event": "Granted",
+      "dates": [
+        1719205200
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/55477"
+    }
+  ],
+  "lower_court": {
+    "ID": 11,
+    "name": "United States Court of Appeals for the Sixth Circuit",
+    "href": "https://api.oyez.org/taxonomy/term/11"
+  },
+  "facts_of_the_case": "<p>In 2023, Tennessee and Kentucky passed laws restricting certain medical treatments for transgender minors. These laws prohibited healthcare providers from administering puberty blockers, hormone therapy, and sex-transition surgeries to minors for the purpose of altering their appearance or validating their gender identity when inconsistent with their biological sex. Both laws included exceptions for certain medical conditions and provided mechanisms for enforcement, including professional discipline for healthcare providers and extended statutes of limitations for lawsuits.</p>\n<p>In response, groups of transgender minors, their parents, and healthcare providers challenged these laws in federal court. The plaintiffs argued that the laws violated their constitutional rights to due process and equal protection. They sought preliminary injunctions to prevent the laws from taking effect. In both cases, district courts initially granted injunctions, finding that the laws likely infringed on parents\u2019 fundamental rights to direct their children's medical care and discriminated based on sex. The U.S. Court of Appeals for the Sixth Circuit stayed these injunctions, allowing the laws to go into effect pending further legal proceedings.</p>\n",
+  "question": "<p>Does a Tennessee law restricting certain medical treatments for transgender minors violate the Equal Protection Clause of the 14th Amendment?</p>\n",
+  "conclusion": null,
+  "advocates": null,
+  "oral_argument_audio": null,
+  "citation": {
+    "volume": null,
+    "page": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/28023"
+  },
+  "decisions": null,
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    null
+  ],
+  "decided_by": null,
+  "term": "2024",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the Court will decide whether Tennessee Senate Bill 1, which prohibits all medical treatments intended to allow \u201ca minor to identify with, or live as, a purported identity inconsistent with the minor\u2019s sex\u201d or to treat \u201cpurported discomfort or distress from a discordance between the minor\u2019s sex and asserted identity,\u201d violates the Equal Protection Clause of the 14th Amendment.",
+  "written_opinion": null,
+  "related_cases": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-477/",
+  "argument2_url": null
+}

@@ -1,0 +1,1192 @@
+{
+  "ID": 63647,
+  "name": "Smith v. Spizzirri",
+  "href": "https://api.oyez.org/cases/2023/22-1218",
+  "view_count": 0,
+  "docket_number": "22-1218",
+  "additional_docket_numbers": null,
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "first_party": "Wendy Smith, et al.",
+  "second_party": "Keith Spizzirri, et al.",
+  "timeline": [
+    {
+      "event": "Granted",
+      "dates": [
+        1705039200
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/55388"
+    },
+    {
+      "event": "Argued",
+      "dates": [
+        1713762000
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/55446"
+    },
+    {
+      "event": "Decided",
+      "dates": [
+        1715835600
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/55462"
+    }
+  ],
+  "lower_court": {
+    "ID": 5,
+    "name": "United States Court of Appeals for the Ninth Circuit",
+    "href": "https://api.oyez.org/taxonomy/term/5"
+  },
+  "facts_of_the_case": "<p>Plaintiffs Smith and others were current and former delivery drivers for Intelliserve. They sued Intelliserve in Arizona state court alleging that \u201cIntelliserve violated federal and state employment laws by misclassifying them as independent contractors, failing to pay them required minimum and overtime wages, and failing to provide paid sick leave.\u201d</p>\n<p>Intelliserve removed the case to federal court, then moved to compel arbitration and to dismiss the case. While both parties agreed that, under the FAA, all claims were subject to mandatory arbitration, they disagreed on how the district court was supposed to handle the lawsuit. Intelliserve argued that Section 3 of the FAA permitted the district court to dismiss the action, while the plaintiffs argued that the FAA required the district court to stay the action pending arbitration. The district court dismissed the action without prejudice, and the U.S. Court of Appeals for the Ninth Circuit affirmed.</p>\n",
+  "question": "<p>Does Section 3 of the Federal Arbitration Act give district courts discretion to dismiss a lawsuit when all claims are subject to arbitration?</p>\n",
+  "conclusion": "<p>When a district court finds that a lawsuit involves an arbitrable dispute and a party has requested a stay of the court proceeding pending arbitration, \u00a7 3 of the Federal Arbitration Act compels the court to issue a stay, and the court lacks discretion to dismiss the suit. Justice Sonia Sotomayor authored the unanimous opinion of the Court.</p>\n<p>Section 3 of the Federal Arbitration Act (FAA) states that a court \u201cshall\u201d stay proceedings when an issue is subject to arbitration. The word \u201cshall\u201d creates a mandatory obligation that leaves no room for judicial discretion. The term \u201cstay\u201d means a temporary suspension of legal proceedings, not a conclusive termination. The statutory text surrounding \u201cstay\u201d in Section 3 indicates that parties can return to federal court if arbitration fails, which would not be possible if the case were dismissed.</p>\n<p>Even if district courts have inherent authority to dismiss proceedings subject to arbitration, Section 3 of the FAA overrides that discretion and requires a stay. The FAA\u2019s structure and purpose confirm that a stay is required. The FAA allows immediate appeals of orders denying arbitration but not orders compelling arbitration, reflecting Congress\u2019s intent to move parties to arbitration quickly. Dismissing a case would trigger an appeal that Congress sought to forbid. Finally, staying a suit aligns with the supervisory role the FAA envisions for courts, allowing them to assist in the arbitration process as needed. Keeping the case on the docket avoids the costs and complications of filing a new suit to invoke the FAA's procedural protections.</p>\n<p>Thus, Section 3 compels the district court to issue a stay and does not give the court discretion to dismiss the suit.</p>\n",
+  "advocates": [
+    {
+      "advocate": {
+        "ID": 62794,
+        "name": "Daniel L. Geyser",
+        "href": "https://api.oyez.org/people/daniel_l_geyser",
+        "view_count": 0,
+        "last_name": "Geyser",
+        "roles": null,
+        "thumbnail": null,
+        "length_of_service": 0,
+        "identifier": "daniel_l_geyser"
+      },
+      "advocate_description": "for the Petitioners",
+      "href": "https://api.oyez.org/case_advocate/case_advocate/23589"
+    },
+    {
+      "advocate": {
+        "ID": 23018,
+        "name": "E. Joshua Rosenkranz",
+        "href": "https://api.oyez.org/people/e_joshua_rosenkranz",
+        "view_count": 0,
+        "last_name": "Rosenkranz",
+        "roles": null,
+        "thumbnail": null,
+        "length_of_service": 0,
+        "identifier": "e_joshua_rosenkranz"
+      },
+      "advocate_description": "for the Respondents",
+      "href": "https://api.oyez.org/case_advocate/case_advocate/23590"
+    }
+  ],
+  "oral_argument_audio": [
+    {
+      "id": 25639,
+      "title": "Oral Argument - April 22, 2024",
+      "public_note": null,
+      "unavailable": false,
+      "display_title": null,
+      "href": "https://api.oyez.org/case_media/oral_argument_audio/25639"
+    }
+  ],
+  "citation": {
+    "volume": "601",
+    "page": null,
+    "year": "2024",
+    "href": "https://api.oyez.org/case_citation/case_citation/28001"
+  },
+  "decisions": [
+    {
+      "description": "When a district court finds that a lawsuit involves an arbitrable dispute and a party has requested a stay of the court proceeding pending arbitration, \u00a7 3 of the Federal Arbitration Act compels the court to issue a stay, and the court lacks discretion to dismiss the suit.",
+      "votes": [
+        {
+          "member": {
+            "ID": 15131,
+            "name": "Sonia Sotomayor",
+            "href": "https://api.oyez.org/people/sonia_sotomayor",
+            "view_count": 0,
+            "last_name": "Sotomayor",
+            "roles": [
+              {
+                "id": 2776,
+                "type": "scotus_justice",
+                "date_start": 1249707600,
+                "date_end": 0,
+                "appointing_president": "Barack Obama",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "institution_name": "Supreme Court of the United States",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2776"
+              }
+            ],
+            "thumbnail": {
+              "id": 32685,
+              "mime": "image/png",
+              "size": 50379,
+              "href": "https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png"
+            },
+            "length_of_service": 4710,
+            "identifier": "sonia_sotomayor"
+          },
+          "vote": "majority",
+          "opinion_type": "majority",
+          "joining": null,
+          "seniority": 4,
+          "ideology": 0,
+          "href": "https://api.oyez.org/decision_vote/decision_vote/212923"
+        },
+        {
+          "member": {
+            "ID": 15086,
+            "name": "John G. Roberts, Jr.",
+            "href": "https://api.oyez.org/people/john_g_roberts_jr",
+            "view_count": 0,
+            "last_name": "Roberts",
+            "roles": [
+              {
+                "id": 2730,
+                "type": "scotus_justice",
+                "date_start": 1127970000,
+                "date_end": 0,
+                "appointing_president": "George W. Bush",
+                "role_title": "Chief Justice of the United States",
+                "institution_name": "Supreme Court of the United States",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2730"
+              }
+            ],
+            "thumbnail": {
+              "id": 32683,
+              "mime": "image/png",
+              "size": 52305,
+              "href": "https://api.oyez.org/sites/default/files/images/people/john_g_roberts_jr/john_g_roberts_jr.thumb.png"
+            },
+            "length_of_service": 6119,
+            "identifier": "john_g_roberts_jr"
+          },
+          "vote": "majority",
+          "opinion_type": "none",
+          "joining": [
+            {
+              "ID": 15131,
+              "name": "Sonia Sotomayor",
+              "href": "https://api.oyez.org/people/sonia_sotomayor",
+              "view_count": 0,
+              "last_name": "Sotomayor",
+              "roles": [
+                {
+                  "id": 2776,
+                  "type": "scotus_justice",
+                  "date_start": 1249707600,
+                  "date_end": 0,
+                  "appointing_president": "Barack Obama",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "institution_name": "Supreme Court of the United States",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2776"
+                }
+              ],
+              "thumbnail": {
+                "id": 32685,
+                "mime": "image/png",
+                "size": 50379,
+                "href": "https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png"
+              },
+              "length_of_service": 4710,
+              "identifier": "sonia_sotomayor"
+            }
+          ],
+          "seniority": 1,
+          "ideology": 0,
+          "href": "https://api.oyez.org/decision_vote/decision_vote/212924"
+        },
+        {
+          "member": {
+            "ID": 15100,
+            "name": "Clarence Thomas",
+            "href": "https://api.oyez.org/people/clarence_thomas",
+            "view_count": 0,
+            "last_name": "Thomas",
+            "roles": [
+              {
+                "id": 2744,
+                "type": "scotus_justice",
+                "date_start": 688194000,
+                "date_end": 0,
+                "appointing_president": "George H. W. Bush",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "institution_name": "Supreme Court of the United States",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2744"
+              }
+            ],
+            "thumbnail": {
+              "id": 32680,
+              "mime": "image/png",
+              "size": 49064,
+              "href": "https://api.oyez.org/sites/default/files/images/people/clarence_thomas/clarence_thomas.thumb.png"
+            },
+            "length_of_service": 11156,
+            "identifier": "clarence_thomas"
+          },
+          "vote": "majority",
+          "opinion_type": "none",
+          "joining": [
+            {
+              "ID": 15131,
+              "name": "Sonia Sotomayor",
+              "href": "https://api.oyez.org/people/sonia_sotomayor",
+              "view_count": 0,
+              "last_name": "Sotomayor",
+              "roles": [
+                {
+                  "id": 2776,
+                  "type": "scotus_justice",
+                  "date_start": 1249707600,
+                  "date_end": 0,
+                  "appointing_president": "Barack Obama",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "institution_name": "Supreme Court of the United States",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2776"
+                }
+              ],
+              "thumbnail": {
+                "id": 32685,
+                "mime": "image/png",
+                "size": 50379,
+                "href": "https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png"
+              },
+              "length_of_service": 4710,
+              "identifier": "sonia_sotomayor"
+            }
+          ],
+          "seniority": 2,
+          "ideology": 0,
+          "href": "https://api.oyez.org/decision_vote/decision_vote/212925"
+        },
+        {
+          "member": {
+            "ID": 15068,
+            "name": "Samuel A. Alito, Jr.",
+            "href": "https://api.oyez.org/people/samuel_a_alito_jr",
+            "view_count": 0,
+            "last_name": "Alito",
+            "roles": [
+              {
+                "id": 2712,
+                "type": "scotus_justice",
+                "date_start": 1138687200,
+                "date_end": 0,
+                "appointing_president": "George W. Bush",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "institution_name": "Supreme Court of the United States",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2712"
+              }
+            ],
+            "thumbnail": {
+              "id": 32684,
+              "mime": "image/png",
+              "size": 44799,
+              "href": "https://api.oyez.org/sites/default/files/images/people/samuel_alito_jr/samuel_alito_jr.thumb.png"
+            },
+            "length_of_service": 5908,
+            "identifier": "samuel_a_alito_jr"
+          },
+          "vote": "majority",
+          "opinion_type": "none",
+          "joining": [
+            {
+              "ID": 15131,
+              "name": "Sonia Sotomayor",
+              "href": "https://api.oyez.org/people/sonia_sotomayor",
+              "view_count": 0,
+              "last_name": "Sotomayor",
+              "roles": [
+                {
+                  "id": 2776,
+                  "type": "scotus_justice",
+                  "date_start": 1249707600,
+                  "date_end": 0,
+                  "appointing_president": "Barack Obama",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "institution_name": "Supreme Court of the United States",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2776"
+                }
+              ],
+              "thumbnail": {
+                "id": 32685,
+                "mime": "image/png",
+                "size": 50379,
+                "href": "https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png"
+              },
+              "length_of_service": 4710,
+              "identifier": "sonia_sotomayor"
+            }
+          ],
+          "seniority": 3,
+          "ideology": 0,
+          "href": "https://api.oyez.org/decision_vote/decision_vote/212926"
+        },
+        {
+          "member": {
+            "ID": 15094,
+            "name": "Elena Kagan",
+            "href": "https://api.oyez.org/people/elena_kagan",
+            "view_count": 0,
+            "last_name": "Kagan",
+            "roles": [
+              {
+                "id": 2738,
+                "type": "scotus_justice",
+                "date_start": 1281157200,
+                "date_end": 0,
+                "appointing_president": "Barack Obama",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "institution_name": "Supreme Court of the United States",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/2738"
+              }
+            ],
+            "thumbnail": {
+              "id": 32690,
+              "mime": "image/png",
+              "size": 44456,
+              "href": "https://api.oyez.org/sites/default/files/images/people/elena_kagan/elena_kagan.thumb.png"
+            },
+            "length_of_service": 4259,
+            "identifier": "elena_kagan"
+          },
+          "vote": "majority",
+          "opinion_type": "none",
+          "joining": [
+            {
+              "ID": 15131,
+              "name": "Sonia Sotomayor",
+              "href": "https://api.oyez.org/people/sonia_sotomayor",
+              "view_count": 0,
+              "last_name": "Sotomayor",
+              "roles": [
+                {
+                  "id": 2776,
+                  "type": "scotus_justice",
+                  "date_start": 1249707600,
+                  "date_end": 0,
+                  "appointing_president": "Barack Obama",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "institution_name": "Supreme Court of the United States",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2776"
+                }
+              ],
+              "thumbnail": {
+                "id": 32685,
+                "mime": "image/png",
+                "size": 50379,
+                "href": "https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png"
+              },
+              "length_of_service": 4710,
+              "identifier": "sonia_sotomayor"
+            }
+          ],
+          "seniority": 5,
+          "ideology": 0,
+          "href": "https://api.oyez.org/decision_vote/decision_vote/212927"
+        },
+        {
+          "member": {
+            "ID": 62836,
+            "name": "Neil Gorsuch",
+            "href": "https://api.oyez.org/people/neil_gorsuch",
+            "view_count": 0,
+            "last_name": "Gorsuch",
+            "roles": [
+              {
+                "id": 3506,
+                "type": "scotus_justice",
+                "date_start": 1491541200,
+                "date_end": 0,
+                "appointing_president": "Donald J. Trump",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "institution_name": "Supreme Court of the United States",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/3506"
+              }
+            ],
+            "thumbnail": {
+              "id": 79753,
+              "mime": "image/png",
+              "size": 121461,
+              "href": "https://api.oyez.org/sites/default/files/filefield_paths/neil_gorsuch.thumb__0.png"
+            },
+            "length_of_service": 1824,
+            "identifier": "neil_gorsuch"
+          },
+          "vote": "majority",
+          "opinion_type": "none",
+          "joining": [
+            {
+              "ID": 15131,
+              "name": "Sonia Sotomayor",
+              "href": "https://api.oyez.org/people/sonia_sotomayor",
+              "view_count": 0,
+              "last_name": "Sotomayor",
+              "roles": [
+                {
+                  "id": 2776,
+                  "type": "scotus_justice",
+                  "date_start": 1249707600,
+                  "date_end": 0,
+                  "appointing_president": "Barack Obama",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "institution_name": "Supreme Court of the United States",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2776"
+                }
+              ],
+              "thumbnail": {
+                "id": 32685,
+                "mime": "image/png",
+                "size": 50379,
+                "href": "https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png"
+              },
+              "length_of_service": 4710,
+              "identifier": "sonia_sotomayor"
+            }
+          ],
+          "seniority": 6,
+          "ideology": 0,
+          "href": "https://api.oyez.org/decision_vote/decision_vote/212928"
+        },
+        {
+          "member": {
+            "ID": 17766,
+            "name": "Brett M. Kavanaugh",
+            "href": "https://api.oyez.org/people/brett_m_kavanaugh",
+            "view_count": 0,
+            "last_name": "Kavanaugh",
+            "roles": [
+              {
+                "id": 3507,
+                "type": "scotus_justice",
+                "date_start": 1538802000,
+                "date_end": 0,
+                "appointing_president": "Donald J. Trump",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "institution_name": "Supreme Court of the United States",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/3507"
+              }
+            ],
+            "thumbnail": {
+              "id": 80518,
+              "mime": "image/png",
+              "size": 91566,
+              "href": "https://api.oyez.org/sites/default/files/filefield_paths/Kavanaugh-thumb.png"
+            },
+            "length_of_service": 1277,
+            "identifier": "brett_m_kavanaugh"
+          },
+          "vote": "majority",
+          "opinion_type": "none",
+          "joining": [
+            {
+              "ID": 15131,
+              "name": "Sonia Sotomayor",
+              "href": "https://api.oyez.org/people/sonia_sotomayor",
+              "view_count": 0,
+              "last_name": "Sotomayor",
+              "roles": [
+                {
+                  "id": 2776,
+                  "type": "scotus_justice",
+                  "date_start": 1249707600,
+                  "date_end": 0,
+                  "appointing_president": "Barack Obama",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "institution_name": "Supreme Court of the United States",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2776"
+                }
+              ],
+              "thumbnail": {
+                "id": 32685,
+                "mime": "image/png",
+                "size": 50379,
+                "href": "https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png"
+              },
+              "length_of_service": 4710,
+              "identifier": "sonia_sotomayor"
+            }
+          ],
+          "seniority": 7,
+          "ideology": 0,
+          "href": "https://api.oyez.org/decision_vote/decision_vote/212929"
+        },
+        {
+          "member": {
+            "ID": 63282,
+            "name": "Amy Coney Barrett",
+            "href": "https://api.oyez.org/people/amy_coney_barrett",
+            "view_count": 0,
+            "last_name": "Barrett",
+            "roles": [
+              {
+                "id": 3511,
+                "type": "scotus_justice",
+                "date_start": 1603774800,
+                "date_end": 0,
+                "appointing_president": "Donald J. Trump",
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "institution_name": "Supreme Court of the United States",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/3511"
+              }
+            ],
+            "thumbnail": {
+              "id": 81207,
+              "mime": "image/png",
+              "size": 47722,
+              "href": "https://api.oyez.org/sites/default/files/filefield_paths/barret-thumb.png"
+            },
+            "length_of_service": 525,
+            "identifier": "amy_coney_barrett"
+          },
+          "vote": "majority",
+          "opinion_type": "none",
+          "joining": [
+            {
+              "ID": 15131,
+              "name": "Sonia Sotomayor",
+              "href": "https://api.oyez.org/people/sonia_sotomayor",
+              "view_count": 0,
+              "last_name": "Sotomayor",
+              "roles": [
+                {
+                  "id": 2776,
+                  "type": "scotus_justice",
+                  "date_start": 1249707600,
+                  "date_end": 0,
+                  "appointing_president": "Barack Obama",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "institution_name": "Supreme Court of the United States",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2776"
+                }
+              ],
+              "thumbnail": {
+                "id": 32685,
+                "mime": "image/png",
+                "size": 50379,
+                "href": "https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png"
+              },
+              "length_of_service": 4710,
+              "identifier": "sonia_sotomayor"
+            }
+          ],
+          "seniority": 8,
+          "ideology": 0,
+          "href": "https://api.oyez.org/decision_vote/decision_vote/212930"
+        },
+        {
+          "member": {
+            "ID": 33869,
+            "name": "Ketanji Brown Jackson",
+            "href": "https://api.oyez.org/people/ketanji_brown_jackson",
+            "view_count": 0,
+            "last_name": "Jackson",
+            "roles": [
+              {
+                "id": 3520,
+                "type": "scotus_justice",
+                "date_start": 1656565200,
+                "date_end": 0,
+                "appointing_president": null,
+                "role_title": "Associate Justice of the Supreme Court of the United States",
+                "institution_name": "Supreme Court of the United States",
+                "href": "https://api.oyez.org/preson_role/scotus_justice/3520"
+              }
+            ],
+            "thumbnail": {
+              "id": 82011,
+              "mime": "image/png",
+              "size": 58056,
+              "href": "https://api.oyez.org/sites/default/files/filefield_paths/thumbnail_ketanji_brown_jackson.png"
+            },
+            "length_of_service": 683,
+            "identifier": "ketanji_brown_jackson"
+          },
+          "vote": "majority",
+          "opinion_type": "none",
+          "joining": [
+            {
+              "ID": 15131,
+              "name": "Sonia Sotomayor",
+              "href": "https://api.oyez.org/people/sonia_sotomayor",
+              "view_count": 0,
+              "last_name": "Sotomayor",
+              "roles": [
+                {
+                  "id": 2776,
+                  "type": "scotus_justice",
+                  "date_start": 1249707600,
+                  "date_end": 0,
+                  "appointing_president": "Barack Obama",
+                  "role_title": "Associate Justice of the Supreme Court of the United States",
+                  "institution_name": "Supreme Court of the United States",
+                  "href": "https://api.oyez.org/preson_role/scotus_justice/2776"
+                }
+              ],
+              "thumbnail": {
+                "id": 32685,
+                "mime": "image/png",
+                "size": 50379,
+                "href": "https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png"
+              },
+              "length_of_service": 4710,
+              "identifier": "sonia_sotomayor"
+            }
+          ],
+          "seniority": 9,
+          "ideology": 0,
+          "href": "https://api.oyez.org/decision_vote/decision_vote/212931"
+        }
+      ],
+      "majority_vote": 9,
+      "minority_vote": 0,
+      "winning_party": "Smith",
+      "decision_type": "majority opinion",
+      "href": "https://api.oyez.org/case_decision/case_decision/17245"
+    }
+  ],
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    {
+      "ID": 63493,
+      "name": "Roberts Court (2022-)",
+      "href": "https://api.oyez.org/courts/roberts13",
+      "view_count": 0,
+      "members": [
+        {
+          "ID": 15086,
+          "name": "John G. Roberts, Jr.",
+          "href": "https://api.oyez.org/people/john_g_roberts_jr",
+          "view_count": 0,
+          "last_name": "Roberts",
+          "roles": [
+            {
+              "id": 2730,
+              "type": "scotus_justice",
+              "date_start": 1127970000,
+              "date_end": 0,
+              "appointing_president": "George W. Bush",
+              "role_title": "Chief Justice of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2730"
+            }
+          ],
+          "thumbnail": {
+            "id": 32683,
+            "mime": "image/png",
+            "size": 52305,
+            "href": "https://api.oyez.org/sites/default/files/images/people/john_g_roberts_jr/john_g_roberts_jr.thumb.png"
+          },
+          "length_of_service": 6119,
+          "identifier": "john_g_roberts_jr"
+        },
+        {
+          "ID": 15100,
+          "name": "Clarence Thomas",
+          "href": "https://api.oyez.org/people/clarence_thomas",
+          "view_count": 0,
+          "last_name": "Thomas",
+          "roles": [
+            {
+              "id": 2744,
+              "type": "scotus_justice",
+              "date_start": 688194000,
+              "date_end": 0,
+              "appointing_president": "George H. W. Bush",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2744"
+            }
+          ],
+          "thumbnail": {
+            "id": 32680,
+            "mime": "image/png",
+            "size": 49064,
+            "href": "https://api.oyez.org/sites/default/files/images/people/clarence_thomas/clarence_thomas.thumb.png"
+          },
+          "length_of_service": 11156,
+          "identifier": "clarence_thomas"
+        },
+        {
+          "ID": 15068,
+          "name": "Samuel A. Alito, Jr.",
+          "href": "https://api.oyez.org/people/samuel_a_alito_jr",
+          "view_count": 0,
+          "last_name": "Alito",
+          "roles": [
+            {
+              "id": 2712,
+              "type": "scotus_justice",
+              "date_start": 1138687200,
+              "date_end": 0,
+              "appointing_president": "George W. Bush",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2712"
+            }
+          ],
+          "thumbnail": {
+            "id": 32684,
+            "mime": "image/png",
+            "size": 44799,
+            "href": "https://api.oyez.org/sites/default/files/images/people/samuel_alito_jr/samuel_alito_jr.thumb.png"
+          },
+          "length_of_service": 5908,
+          "identifier": "samuel_a_alito_jr"
+        },
+        {
+          "ID": 15131,
+          "name": "Sonia Sotomayor",
+          "href": "https://api.oyez.org/people/sonia_sotomayor",
+          "view_count": 0,
+          "last_name": "Sotomayor",
+          "roles": [
+            {
+              "id": 2776,
+              "type": "scotus_justice",
+              "date_start": 1249707600,
+              "date_end": 0,
+              "appointing_president": "Barack Obama",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2776"
+            }
+          ],
+          "thumbnail": {
+            "id": 32685,
+            "mime": "image/png",
+            "size": 50379,
+            "href": "https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png"
+          },
+          "length_of_service": 4710,
+          "identifier": "sonia_sotomayor"
+        },
+        {
+          "ID": 15094,
+          "name": "Elena Kagan",
+          "href": "https://api.oyez.org/people/elena_kagan",
+          "view_count": 0,
+          "last_name": "Kagan",
+          "roles": [
+            {
+              "id": 2738,
+              "type": "scotus_justice",
+              "date_start": 1281157200,
+              "date_end": 0,
+              "appointing_president": "Barack Obama",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/2738"
+            }
+          ],
+          "thumbnail": {
+            "id": 32690,
+            "mime": "image/png",
+            "size": 44456,
+            "href": "https://api.oyez.org/sites/default/files/images/people/elena_kagan/elena_kagan.thumb.png"
+          },
+          "length_of_service": 4259,
+          "identifier": "elena_kagan"
+        },
+        {
+          "ID": 62836,
+          "name": "Neil Gorsuch",
+          "href": "https://api.oyez.org/people/neil_gorsuch",
+          "view_count": 0,
+          "last_name": "Gorsuch",
+          "roles": [
+            {
+              "id": 3506,
+              "type": "scotus_justice",
+              "date_start": 1491541200,
+              "date_end": 0,
+              "appointing_president": "Donald J. Trump",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/3506"
+            }
+          ],
+          "thumbnail": {
+            "id": 79753,
+            "mime": "image/png",
+            "size": 121461,
+            "href": "https://api.oyez.org/sites/default/files/filefield_paths/neil_gorsuch.thumb__0.png"
+          },
+          "length_of_service": 1824,
+          "identifier": "neil_gorsuch"
+        },
+        {
+          "ID": 17766,
+          "name": "Brett M. Kavanaugh",
+          "href": "https://api.oyez.org/people/brett_m_kavanaugh",
+          "view_count": 0,
+          "last_name": "Kavanaugh",
+          "roles": [
+            {
+              "id": 3507,
+              "type": "scotus_justice",
+              "date_start": 1538802000,
+              "date_end": 0,
+              "appointing_president": "Donald J. Trump",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/3507"
+            }
+          ],
+          "thumbnail": {
+            "id": 80518,
+            "mime": "image/png",
+            "size": 91566,
+            "href": "https://api.oyez.org/sites/default/files/filefield_paths/Kavanaugh-thumb.png"
+          },
+          "length_of_service": 1277,
+          "identifier": "brett_m_kavanaugh"
+        },
+        {
+          "ID": 63282,
+          "name": "Amy Coney Barrett",
+          "href": "https://api.oyez.org/people/amy_coney_barrett",
+          "view_count": 0,
+          "last_name": "Barrett",
+          "roles": [
+            {
+              "id": 3511,
+              "type": "scotus_justice",
+              "date_start": 1603774800,
+              "date_end": 0,
+              "appointing_president": "Donald J. Trump",
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/3511"
+            }
+          ],
+          "thumbnail": {
+            "id": 81207,
+            "mime": "image/png",
+            "size": 47722,
+            "href": "https://api.oyez.org/sites/default/files/filefield_paths/barret-thumb.png"
+          },
+          "length_of_service": 525,
+          "identifier": "amy_coney_barrett"
+        },
+        {
+          "ID": 33869,
+          "name": "Ketanji Brown Jackson",
+          "href": "https://api.oyez.org/people/ketanji_brown_jackson",
+          "view_count": 0,
+          "last_name": "Jackson",
+          "roles": [
+            {
+              "id": 3520,
+              "type": "scotus_justice",
+              "date_start": 1656565200,
+              "date_end": 0,
+              "appointing_president": null,
+              "role_title": "Associate Justice of the Supreme Court of the United States",
+              "institution_name": "Supreme Court of the United States",
+              "href": "https://api.oyez.org/preson_role/scotus_justice/3520"
+            }
+          ],
+          "thumbnail": {
+            "id": 82011,
+            "mime": "image/png",
+            "size": 58056,
+            "href": "https://api.oyez.org/sites/default/files/filefield_paths/thumbnail_ketanji_brown_jackson.png"
+          },
+          "length_of_service": 683,
+          "identifier": "ketanji_brown_jackson"
+        }
+      ],
+      "court_start": 1656565200,
+      "images": null,
+      "identifier": "roberts13"
+    }
+  ],
+  "decided_by": {
+    "ID": 63493,
+    "name": "Roberts Court (2022-)",
+    "href": "https://api.oyez.org/courts/roberts13",
+    "view_count": 0,
+    "members": [
+      {
+        "ID": 15086,
+        "name": "John G. Roberts, Jr.",
+        "href": "https://api.oyez.org/people/john_g_roberts_jr",
+        "view_count": 0,
+        "last_name": "Roberts",
+        "roles": [
+          {
+            "id": 2730,
+            "type": "scotus_justice",
+            "date_start": 1127970000,
+            "date_end": 0,
+            "appointing_president": "George W. Bush",
+            "role_title": "Chief Justice of the United States",
+            "institution_name": "Supreme Court of the United States",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2730"
+          }
+        ],
+        "thumbnail": {
+          "id": 32683,
+          "mime": "image/png",
+          "size": 52305,
+          "href": "https://api.oyez.org/sites/default/files/images/people/john_g_roberts_jr/john_g_roberts_jr.thumb.png"
+        },
+        "length_of_service": 6119,
+        "identifier": "john_g_roberts_jr"
+      },
+      {
+        "ID": 15100,
+        "name": "Clarence Thomas",
+        "href": "https://api.oyez.org/people/clarence_thomas",
+        "view_count": 0,
+        "last_name": "Thomas",
+        "roles": [
+          {
+            "id": 2744,
+            "type": "scotus_justice",
+            "date_start": 688194000,
+            "date_end": 0,
+            "appointing_president": "George H. W. Bush",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "institution_name": "Supreme Court of the United States",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2744"
+          }
+        ],
+        "thumbnail": {
+          "id": 32680,
+          "mime": "image/png",
+          "size": 49064,
+          "href": "https://api.oyez.org/sites/default/files/images/people/clarence_thomas/clarence_thomas.thumb.png"
+        },
+        "length_of_service": 11156,
+        "identifier": "clarence_thomas"
+      },
+      {
+        "ID": 15068,
+        "name": "Samuel A. Alito, Jr.",
+        "href": "https://api.oyez.org/people/samuel_a_alito_jr",
+        "view_count": 0,
+        "last_name": "Alito",
+        "roles": [
+          {
+            "id": 2712,
+            "type": "scotus_justice",
+            "date_start": 1138687200,
+            "date_end": 0,
+            "appointing_president": "George W. Bush",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "institution_name": "Supreme Court of the United States",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2712"
+          }
+        ],
+        "thumbnail": {
+          "id": 32684,
+          "mime": "image/png",
+          "size": 44799,
+          "href": "https://api.oyez.org/sites/default/files/images/people/samuel_alito_jr/samuel_alito_jr.thumb.png"
+        },
+        "length_of_service": 5908,
+        "identifier": "samuel_a_alito_jr"
+      },
+      {
+        "ID": 15131,
+        "name": "Sonia Sotomayor",
+        "href": "https://api.oyez.org/people/sonia_sotomayor",
+        "view_count": 0,
+        "last_name": "Sotomayor",
+        "roles": [
+          {
+            "id": 2776,
+            "type": "scotus_justice",
+            "date_start": 1249707600,
+            "date_end": 0,
+            "appointing_president": "Barack Obama",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "institution_name": "Supreme Court of the United States",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2776"
+          }
+        ],
+        "thumbnail": {
+          "id": 32685,
+          "mime": "image/png",
+          "size": 50379,
+          "href": "https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png"
+        },
+        "length_of_service": 4710,
+        "identifier": "sonia_sotomayor"
+      },
+      {
+        "ID": 15094,
+        "name": "Elena Kagan",
+        "href": "https://api.oyez.org/people/elena_kagan",
+        "view_count": 0,
+        "last_name": "Kagan",
+        "roles": [
+          {
+            "id": 2738,
+            "type": "scotus_justice",
+            "date_start": 1281157200,
+            "date_end": 0,
+            "appointing_president": "Barack Obama",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "institution_name": "Supreme Court of the United States",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/2738"
+          }
+        ],
+        "thumbnail": {
+          "id": 32690,
+          "mime": "image/png",
+          "size": 44456,
+          "href": "https://api.oyez.org/sites/default/files/images/people/elena_kagan/elena_kagan.thumb.png"
+        },
+        "length_of_service": 4259,
+        "identifier": "elena_kagan"
+      },
+      {
+        "ID": 62836,
+        "name": "Neil Gorsuch",
+        "href": "https://api.oyez.org/people/neil_gorsuch",
+        "view_count": 0,
+        "last_name": "Gorsuch",
+        "roles": [
+          {
+            "id": 3506,
+            "type": "scotus_justice",
+            "date_start": 1491541200,
+            "date_end": 0,
+            "appointing_president": "Donald J. Trump",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "institution_name": "Supreme Court of the United States",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/3506"
+          }
+        ],
+        "thumbnail": {
+          "id": 79753,
+          "mime": "image/png",
+          "size": 121461,
+          "href": "https://api.oyez.org/sites/default/files/filefield_paths/neil_gorsuch.thumb__0.png"
+        },
+        "length_of_service": 1824,
+        "identifier": "neil_gorsuch"
+      },
+      {
+        "ID": 17766,
+        "name": "Brett M. Kavanaugh",
+        "href": "https://api.oyez.org/people/brett_m_kavanaugh",
+        "view_count": 0,
+        "last_name": "Kavanaugh",
+        "roles": [
+          {
+            "id": 3507,
+            "type": "scotus_justice",
+            "date_start": 1538802000,
+            "date_end": 0,
+            "appointing_president": "Donald J. Trump",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "institution_name": "Supreme Court of the United States",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/3507"
+          }
+        ],
+        "thumbnail": {
+          "id": 80518,
+          "mime": "image/png",
+          "size": 91566,
+          "href": "https://api.oyez.org/sites/default/files/filefield_paths/Kavanaugh-thumb.png"
+        },
+        "length_of_service": 1277,
+        "identifier": "brett_m_kavanaugh"
+      },
+      {
+        "ID": 63282,
+        "name": "Amy Coney Barrett",
+        "href": "https://api.oyez.org/people/amy_coney_barrett",
+        "view_count": 0,
+        "last_name": "Barrett",
+        "roles": [
+          {
+            "id": 3511,
+            "type": "scotus_justice",
+            "date_start": 1603774800,
+            "date_end": 0,
+            "appointing_president": "Donald J. Trump",
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "institution_name": "Supreme Court of the United States",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/3511"
+          }
+        ],
+        "thumbnail": {
+          "id": 81207,
+          "mime": "image/png",
+          "size": 47722,
+          "href": "https://api.oyez.org/sites/default/files/filefield_paths/barret-thumb.png"
+        },
+        "length_of_service": 525,
+        "identifier": "amy_coney_barrett"
+      },
+      {
+        "ID": 33869,
+        "name": "Ketanji Brown Jackson",
+        "href": "https://api.oyez.org/people/ketanji_brown_jackson",
+        "view_count": 0,
+        "last_name": "Jackson",
+        "roles": [
+          {
+            "id": 3520,
+            "type": "scotus_justice",
+            "date_start": 1656565200,
+            "date_end": 0,
+            "appointing_president": null,
+            "role_title": "Associate Justice of the Supreme Court of the United States",
+            "institution_name": "Supreme Court of the United States",
+            "href": "https://api.oyez.org/preson_role/scotus_justice/3520"
+          }
+        ],
+        "thumbnail": {
+          "id": 82011,
+          "mime": "image/png",
+          "size": 58056,
+          "href": "https://api.oyez.org/sites/default/files/filefield_paths/thumbnail_ketanji_brown_jackson.png"
+        },
+        "length_of_service": 683,
+        "identifier": "ketanji_brown_jackson"
+      }
+    ],
+    "court_start": 1656565200,
+    "images": null,
+    "identifier": "roberts13"
+  },
+  "term": "2023",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the Court held that Section 3 of the Federal Arbitration Act requires district courts to stay a lawsuit pending arbitration, and does not give district courts discretion to dismiss the suit when all claims are subject to arbitration.",
+  "written_opinion": [
+    {
+      "id": 17704,
+      "title": "Opinion of the Court",
+      "author": null,
+      "type": {
+        "value": "majority",
+        "label": "Opinion of the Court"
+      },
+      "justia_opinion_id": 4891731,
+      "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/601/22-1218/",
+      "judge_full_name": "Sonia Sotomayor",
+      "judge_last_name": "Sotomayor",
+      "title_overwrite": null,
+      "href": "https://api.oyez.org/case_document/written_opinion/17704"
+    },
+    {
+      "id": 17705,
+      "title": "Syllabus",
+      "author": null,
+      "type": {
+        "value": "syllabus",
+        "label": "Syllabus"
+      },
+      "justia_opinion_id": 4891732,
+      "justia_opinion_url": "https://supreme.justia.com/cases/federal/us/601/22-1218/",
+      "judge_full_name": null,
+      "judge_last_name": null,
+      "title_overwrite": null,
+      "href": "https://api.oyez.org/case_document/written_opinion/17705"
+    }
+  ],
+  "related_cases": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/601/22-1218/",
+  "argument2_url": null
+}

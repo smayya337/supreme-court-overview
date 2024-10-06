@@ -1,0 +1,51 @@
+{
+  "ID": 63701,
+  "name": "Free Speech Coalition, Inc. v. Paxton",
+  "href": "https://api.oyez.org/cases/2024/23-1122",
+  "view_count": 0,
+  "docket_number": "23-1122",
+  "additional_docket_numbers": null,
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "first_party": "Free Speech Coalition, Inc.",
+  "second_party": "Ken Paxton, Attorney General of Texas",
+  "timeline": [
+    {
+      "event": "Granted",
+      "dates": [
+        1719896400
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/55529"
+    }
+  ],
+  "lower_court": {
+    "ID": 10,
+    "name": "United States Court of Appeals for the Fifth Circuit",
+    "href": "https://api.oyez.org/taxonomy/term/10"
+  },
+  "facts_of_the_case": "<p>Texas enacted H.B. 1181, a law regulating commercial entities that publish or distribute material on internet websites, including social media platforms, where more than one-third of the content is sexual material harmful to minors. The law requires these entities to implement age verification methods to limit access to adults and display specific health warnings on their landing pages and advertisements. It defines sexual material harmful to minors using a modified version of the Miller test for obscenity.</p>\n<p>Shortly after the law was enacted but before it took effect, plaintiffs sued, claiming H.B. 1181 violates their First Amendment rights and, for some plaintiffs, conflicts with Section 230 of the Communications Decency Act. The district court issued a pre-enforcement preliminary injunction, finding that the plaintiffs were likely to succeed on the merits of their claim and suffer irreparable harm. The court ruled that the age-verification requirement and health warnings fail strict scrutiny\u2014that is, that it is not narrowly tailored to achieve a compelling government interest using the least restrictive means to achieve that interest\u2014and that Section 230 preempts H.B. 1181 for certain plaintiffs. On appeal, the U.S. Court of Appeals for the Fifth Circuit concluded that rational basis review\u2014i.e., rationally related to a legitimate government interest\u2014was the proper standard of review and thus vacated the injunction against the age-verification requirement but affirmed as to the health warnings.</p>\n",
+  "question": "<p>Is a Texas law that requires any website that publishes content one-third or more of which is \u201charmful to minors\u201d to verify the age of each of its users before providing access subject to \u201crational basis\u201d review or \u201cstrict scrutiny\u201d?</p>\n",
+  "conclusion": null,
+  "advocates": null,
+  "oral_argument_audio": null,
+  "citation": {
+    "volume": null,
+    "page": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/28035"
+  },
+  "decisions": null,
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    null
+  ],
+  "decided_by": null,
+  "term": "2024",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the Court will decide whether a Texas law that requires any website that publishes content one-third or more of which is \u201charmful to minors\u201d to verify the age of each of its users before providing access should be subject to \u201crational basis\u201d review or \u201cstrict scrutiny.\u201d",
+  "written_opinion": null,
+  "related_cases": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-1122/",
+  "argument2_url": null
+}

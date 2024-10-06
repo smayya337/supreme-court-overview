@@ -1,0 +1,51 @@
+{
+  "ID": 63692,
+  "name": "Republic of Hungary v. Simon",
+  "href": "https://api.oyez.org/cases/2024/23-867",
+  "view_count": 0,
+  "docket_number": "23-867",
+  "additional_docket_numbers": null,
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "first_party": "Republic of Hungary",
+  "second_party": "Rosalie Simon",
+  "timeline": [
+    {
+      "event": "Granted",
+      "dates": [
+        1719205200
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/55480"
+    }
+  ],
+  "lower_court": {
+    "ID": 16,
+    "name": "United States Court of Appeals for the District of Columbia Circuit",
+    "href": "https://api.oyez.org/taxonomy/term/16"
+  },
+  "facts_of_the_case": "<p>This case arises from the Hungarian government\u2019s confiscation of Jewish-owned property during the Holocaust. In 1944, Hungary rapidly exterminated over half a million Jews and seized their property. Fourteen Holocaust survivors sued Hungary and its agency, Magyar \u00c1llamvasutak Zrt., seeking compensation for this seized property. To overcome Hungary\u2019s sovereign immunity, the plaintiffs invoked the Foreign Sovereign Immunities Act\u2019s expropriation exception, asserting they were either stateless or Czechoslovakian nationals at the time of the takings, not Hungarian nationals. This claim was made in response to the Supreme Court\u2019s recent ruling in Fed. Republic of Germany v. Philipp that a country\u2019s taking of property from its own nationals is generally excluded from the FSIA\u2019s expropriation exception.</p>\n<p>The case has a complex litigation history, with multiple appeals focusing on the plaintiffs\u2019 nationality status and FSIA jurisdiction. The U.S. Court of Appeals for the D.C. Circuit ruled that the plaintiffs\u2019 allegations were sufficient to shift the burden of proof to Hungary to disprove, contrasting with the Second Circuit\u2019s decision that plaintiffs must demonstrate a link between the expropriated property\u2019s funds and U.S. commercial activity.</p>\n",
+  "question": "<p>1. Does historical commingling of assets suffice to establish that proceeds of seized property have a commercial nexus with the United States under the expropriation exception to the Foreign Sovereign Immunities Act?</p>\n<p>2. Must a plaintiff make out a valid claim that an exception to the FSIA applies at the pleading stage, rather than merely raising a plausible inference?</p>\n<p>3. Does a sovereign defendant bear the burden of producing evidence to affirmatively disprove that the proceeds of property taken in violation of international law have a commercial nexus with the United States under the expropriation exception to the FSIA?</p>\n<p>\u00a0</p>\n",
+  "conclusion": null,
+  "advocates": null,
+  "oral_argument_audio": null,
+  "citation": {
+    "volume": null,
+    "page": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/28026"
+  },
+  "decisions": null,
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    null
+  ],
+  "decided_by": null,
+  "term": "2024",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the Court will decide whether and how the expropriation exception to the Foreign Sovereign Immunities Act applies in cases involving seized property, specifically regarding the requirements for establishing a commercial nexus with the United States and the burden of proof at different stages of litigation.",
+  "written_opinion": null,
+  "related_cases": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-867/",
+  "argument2_url": null
+}

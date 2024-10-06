@@ -1,0 +1,51 @@
+{
+  "ID": 63686,
+  "name": "Kousisis v. United States",
+  "href": "https://api.oyez.org/cases/2024/23-909",
+  "view_count": 0,
+  "docket_number": "23-909",
+  "additional_docket_numbers": null,
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "first_party": "Stamatios Kousisis",
+  "second_party": "United States of America",
+  "timeline": [
+    {
+      "event": "Granted",
+      "dates": [
+        1718600400
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/55474"
+    }
+  ],
+  "lower_court": {
+    "ID": 8,
+    "name": "United States Court of Appeals for the Third Circuit",
+    "href": "https://api.oyez.org/taxonomy/term/8"
+  },
+  "facts_of_the_case": "<p>The U.S. Department of Transportation provides funds to state agencies for transportation projects, requiring recipients to set participation goals for disadvantaged business enterprises (DBEs). Kousisis, Frangos, and their companies, Alpha and Liberty Maintenance, were awarded contracts for two Philadelphia projects with DBE requirements. They committed to working with Markias, Inc., a certified DBE, claiming they would obtain millions in paint supplies from the company.</p>\n<p>However, the defendants submitted false documentation about Markias\u2019s role in the projects. Instead of Markias supplying products or performing a commercially useful function as required, it served merely as a pass-through. The defendants arranged for actual suppliers to send invoices to Markias, which then issued its own invoices with a 2.25% fee added. This scheme allowed the defendants to appear compliant with DBE requirements, a condition for receiving payments and avoiding penalties. The jury convicted Kousisis and Alpha of false statements, conspiracy to commit wire fraud, and wire fraud.</p>\n<p>The district court calculated the loss based on the defendants\u2019 \u201cill-gotten profits,\u201d determining that this was an appropriate measure of loss when the actual loss to the government was not measurable at the time of sentencing. This calculation led to a 20-point sentencing enhancement corresponding to a loss between $9.5 million and $25 million.</p>\n<p>Kousisis and Alpha appealed their convictions and the calculation of the loss for sentencing purposes. The U.S. Court of Appeals for the Third Circuit affirmed the convictions but vacated the loss calculation.</p>\n",
+  "question": "<p>Can deception to induce a commercial exchange constitute mail or wire fraud, even if inflicting economic harm on the alleged victim was not the object of the scheme?</p>\n",
+  "conclusion": null,
+  "advocates": null,
+  "oral_argument_audio": null,
+  "citation": {
+    "volume": null,
+    "page": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/28020"
+  },
+  "decisions": null,
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    null
+  ],
+  "decided_by": null,
+  "term": "2024",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the Court will consider the scope of property interests and fraud in government contracting, particularly when deception occurs without clear economic harm.",
+  "written_opinion": null,
+  "related_cases": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-909/",
+  "argument2_url": null
+}

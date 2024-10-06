@@ -1,5 +1,275 @@
 [
   {
+    "name": "Department of Justice v. House Committee on the Judiciary",
+    "link": "https://api.oyez.org/cases/2020/19-1328",
+    "term": "2020",
+    "id": 63257
+  },
+  {
+    "name": "Republic of Hungary v. Simon",
+    "link": "https://api.oyez.org/cases/2024/23-867",
+    "term": "2024",
+    "id": 63692
+  },
+  {
+    "name": "Mayorkas v. Innovation Law Lab",
+    "link": "https://api.oyez.org/cases/2020/19-1212",
+    "term": "2020",
+    "id": 63279
+  },
+  {
+    "name": "Trump v. Sierra Club",
+    "link": "https://api.oyez.org/cases/2020/20-138",
+    "term": "2020",
+    "id": 63280
+  },
+  {
+    "name": "Roman Catholic Diocese of Brooklyn v. Cuomo",
+    "link": "https://api.oyez.org/cases/2020/20a87",
+    "term": "2020",
+    "id": 63295
+  },
+  {
+    "name": "Shinn v. Kayer",
+    "link": "https://api.oyez.org/cases/2020/19-1302",
+    "term": "2020",
+    "id": 63311
+  },
+  {
+    "name": "United States v. Gary",
+    "link": "https://api.oyez.org/cases/2020/20-444",
+    "term": "2020",
+    "id": 63320
+  },
+  {
+    "name": "Cochran v. Gresham",
+    "link": "https://api.oyez.org/cases/2020/20-37",
+    "term": "2020",
+    "id": 63330
+  },
+  {
+    "name": "Chen v. Mayor and City Council of Baltimore",
+    "link": "https://api.oyez.org/cases/2014/13-10400",
+    "term": "2014",
+    "id": 56050
+  },
+  {
+    "name": "Toca v. Louisiana",
+    "link": "https://api.oyez.org/cases/2014/14-6381",
+    "term": "2014",
+    "id": 56151
+  },
+  {
+    "name": "United States v. June",
+    "link": "https://api.oyez.org/cases/2014/13-1075",
+    "term": "2014",
+    "id": 63682
+  },
+  {
+    "name": "Department of Homeland Security v. New York",
+    "link": "https://api.oyez.org/cases/2021/20-449",
+    "term": "2021",
+    "id": 63337
+  },
+  {
+    "name": "American Medical Association v. Cochran",
+    "link": "https://api.oyez.org/cases/2021/20-429",
+    "term": "2021",
+    "id": 63338
+  },
+  {
+    "name": "Servotronics, Inc. v. Rolls-Royce PLC",
+    "link": "https://api.oyez.org/cases/2021/20-794",
+    "term": "2021",
+    "id": 63347
+  },
+  {
+    "name": "United States v. Zubaydah",
+    "link": "https://api.oyez.org/cases/2021/20-827",
+    "term": "2021",
+    "id": 63361
+  },
+  {
+    "name": "Pivotal Software, Inc. v. Tran",
+    "link": "https://api.oyez.org/cases/2021/20-1541",
+    "term": "2021",
+    "id": 63380
+  },
+  {
+    "name": "Mississippi v. Tennessee",
+    "link": "https://api.oyez.org/cases/2021/143-orig",
+    "term": "2021",
+    "id": 63385
+  },
+  {
+    "name": "Biden v. Missouri",
+    "link": "https://api.oyez.org/cases/2021/21a240",
+    "term": "2021",
+    "id": 63435
+  },
+  {
+    "name": "National Federation of Independent Business v. Department of Labor, Occupational Safety and Health Administration",
+    "link": "https://api.oyez.org/cases/2021/21a244",
+    "term": "2021",
+    "id": 63436
+  },
+  {
+    "name": "Williams v. Washington",
+    "link": "https://api.oyez.org/cases/2024/23-191",
+    "term": "2024",
+    "id": 63649
+  },
+  {
+    "name": "Glossip v. Oklahoma",
+    "link": "https://api.oyez.org/cases/2024/22-7466",
+    "term": "2024",
+    "id": 63653
+  },
+  {
+    "name": "Lackey v. Stinnie",
+    "link": "https://api.oyez.org/cases/2024/23-621",
+    "term": "2024",
+    "id": 63676
+  },
+  {
+    "name": "Garland v. VanDerStok",
+    "link": "https://api.oyez.org/cases/2024/23-852",
+    "term": "2024",
+    "id": 63677
+  },
+  {
+    "name": "Medical Marijuana, Inc. v. Horn",
+    "link": "https://api.oyez.org/cases/2024/23-365",
+    "term": "2024",
+    "id": 63678
+  },
+  {
+    "name": "Bouarfa v. Mayorkas",
+    "link": "https://api.oyez.org/cases/2024/23-583",
+    "term": "2024",
+    "id": 63679
+  },
+  {
+    "name": "Royal Canin U.S.A. v. Wullschleger",
+    "link": "https://api.oyez.org/cases/2024/23-677",
+    "term": "2024",
+    "id": 63680
+  },
+  {
+    "name": "Bufkin v. McDonough",
+    "link": "https://api.oyez.org/cases/2024/23-713",
+    "term": "2024",
+    "id": 63681
+  },
+  {
+    "name": "City and County of San Francisco v. Environmental Protection Agency",
+    "link": "https://api.oyez.org/cases/2024/23-753",
+    "term": "2024",
+    "id": 63683
+  },
+  {
+    "name": "Delligatti v. United States",
+    "link": "https://api.oyez.org/cases/2024/23-825",
+    "term": "2024",
+    "id": 63684
+  },
+  {
+    "name": "E.M.D. Sales, Inc. v. Carrera",
+    "link": "https://api.oyez.org/cases/2024/23-217",
+    "term": "2024",
+    "id": 63685
+  },
+  {
+    "name": "Kousisis v. United States",
+    "link": "https://api.oyez.org/cases/2024/23-909",
+    "term": "2024",
+    "id": 63686
+  },
+  {
+    "name": "NVIDIA Corporation v. E. Ohman J:or Fonder AB",
+    "link": "https://api.oyez.org/cases/2024/23-970",
+    "term": "2024",
+    "id": 63687
+  },
+  {
+    "name": "Wisconsin Bell, Inc. cv. United States, ex rel. Heath",
+    "link": "https://api.oyez.org/cases/2024/23-1127",
+    "term": "2024",
+    "id": 63688
+  },
+  {
+    "name": "United States v. Skrmetti",
+    "link": "https://api.oyez.org/cases/2024/23-477",
+    "term": "2024",
+    "id": 63689
+  },
+  {
+    "name": "Feliciano v. Department of Transportation",
+    "link": "https://api.oyez.org/cases/2024/23-861",
+    "term": "2024",
+    "id": 63691
+  },
+  {
+    "name": "Dewberry Group, Inc. v. Dewberry Engineers Inc.",
+    "link": "https://api.oyez.org/cases/2024/23-900",
+    "term": "2024",
+    "id": 63693
+  },
+  {
+    "name": "Seven County Infrastructure Coalition v. Eagle County, Colorado",
+    "link": "https://api.oyez.org/cases/2024/23-975",
+    "term": "2024",
+    "id": 63694
+  },
+  {
+    "name": "Stanley v. City of Sanford, Florida",
+    "link": "https://api.oyez.org/cases/2024/23-997",
+    "term": "2024",
+    "id": 63695
+  },
+  {
+    "name": "Advocate Christ Medical Center v. Becerra",
+    "link": "https://api.oyez.org/cases/2024/23-715",
+    "term": "2024",
+    "id": 63696
+  },
+  {
+    "name": "Facebook v. Amalgamated Bank",
+    "link": "https://api.oyez.org/cases/2024/23-980",
+    "term": "2024",
+    "id": 63697
+  },
+  {
+    "name": "Velazquez v. Garland",
+    "link": "https://api.oyez.org/cases/2024/23-929",
+    "term": "2024",
+    "id": 63698
+  },
+  {
+    "name": "Hewitt v. United States",
+    "link": "https://api.oyez.org/cases/2024/23-1002",
+    "term": "2024",
+    "id": 63699
+  },
+  {
+    "name": "FDA v. Wages and White Lion Investments, L.L.C.",
+    "link": "https://api.oyez.org/cases/2024/23-1038",
+    "term": "2024",
+    "id": 63700
+  },
+  {
+    "name": "Free Speech Coalition, Inc. v. Paxton",
+    "link": "https://api.oyez.org/cases/2024/23-1122",
+    "term": "2024",
+    "id": 63701
+  },
+  {
+    "name": "UBS Financial Services v. Union de Empleados de Muelles",
+    "link": "https://api.oyez.org/cases/2012/12-1208",
+    "term": "2012",
+    "id": 62718
+  },
+  {
     "name": "Ivy v. Morath",
     "link": "https://api.oyez.org/cases/2016/15-486",
     "term": "2016",
@@ -10,6 +280,42 @@
     "link": "https://api.oyez.org/cases/2016/15-961",
     "term": "2016",
     "id": 62736
+  },
+  {
+    "name": "Gloucester County School Board v. G.G.",
+    "link": "https://api.oyez.org/cases/2016/16-273",
+    "term": "2016",
+    "id": 62765
+  },
+  {
+    "name": "Carnahan v. Maloney",
+    "link": "https://api.oyez.org/cases/2023/22-425",
+    "term": "2023",
+    "id": 63580
+  },
+  {
+    "name": "NetChoice, LLC v. Paxton",
+    "link": "https://api.oyez.org/cases/2023/22-555",
+    "term": "2023",
+    "id": 63598
+  },
+  {
+    "name": "Relentless, Inc. v. Department of Commerce",
+    "link": "https://api.oyez.org/cases/2023/22-1219",
+    "term": "2023",
+    "id": 63619
+  },
+  {
+    "name": "Ohio v. Environmental Protection Agency",
+    "link": "https://api.oyez.org/cases/2023/23a349",
+    "term": "2023",
+    "id": 63654
+  },
+  {
+    "name": "Texas v. New Mexico and Colorado",
+    "link": "https://api.oyez.org/cases/2017/141-orig",
+    "term": "2017",
+    "id": 62911
   },
   {
     "name": "Leidos, Inc. v. Indiana Public Retirement System",
@@ -30,10 +336,34 @@
     "id": 62927
   },
   {
-    "name": "Carpenter v. Murphy",
-    "link": "https://api.oyez.org/cases/2018/17-1107",
+    "name": "Montana v. Wyoming",
+    "link": "https://api.oyez.org/cases/2017/137-orig",
+    "term": "2017",
+    "id": 62956
+  },
+  {
+    "name": "Gray v. Wilkie",
+    "link": "https://api.oyez.org/cases/2018/17-1679",
     "term": "2018",
-    "id": 62996
+    "id": 63049
+  },
+  {
+    "name": "Lamone v. Benisek",
+    "link": "https://api.oyez.org/cases/2018/18-726",
+    "term": "2018",
+    "id": 63113
+  },
+  {
+    "name": "Hyun v. Landon",
+    "link": "https://api.oyez.org/cases/1955/201",
+    "term": "1955",
+    "id": 59198
+  },
+  {
+    "name": "Liquid Carbonic Corp. v. United States",
+    "link": "https://api.oyez.org/cases/1955/25",
+    "term": "1955",
+    "id": 59207
   },
   {
     "name": "Mathena v. Malvo",
@@ -42,10 +372,16 @@
     "id": 63105
   },
   {
-    "name": "Opati v. Republic of Sudan",
-    "link": "https://api.oyez.org/cases/2019/17-1268",
+    "name": "Altitude Express v. Zarda",
+    "link": "https://api.oyez.org/cases/2019/17-1623",
     "term": "2019",
-    "id": 63150
+    "id": 63121
+  },
+  {
+    "name": "R.G. & G.R. Harris Funeral Homes Inc. v. Equal Employment Opportunity Commission",
+    "link": "https://api.oyez.org/cases/2019/18-107",
+    "term": "2019",
+    "id": 63125
   },
   {
     "name": "Walker v. United States",
@@ -54,370 +390,16 @@
     "id": 63189
   },
   {
-    "name": "Rutledge v. Pharmaceutical Care Management Association",
-    "link": "https://api.oyez.org/cases/2020/18-540",
-    "term": "2020",
-    "id": 63214
+    "name": "Public Employees' Retirement System v. IndyMac MBS, Inc.",
+    "link": "https://api.oyez.org/cases/2013/13-640",
+    "term": "2013",
+    "id": 56103
   },
   {
-    "name": "Van Buren v. United States",
-    "link": "https://api.oyez.org/cases/2020/19-783",
-    "term": "2020",
-    "id": 63238
-  },
-  {
-    "name": "Department of Justice v. House Committee on the Judiciary",
-    "link": "https://api.oyez.org/cases/2020/19-1328",
-    "term": "2020",
-    "id": 63257
-  },
-  {
-    "name": "Mayorkas v. Innovation Law Lab",
-    "link": "https://api.oyez.org/cases/2020/19-1212",
-    "term": "2020",
-    "id": 63279
-  },
-  {
-    "name": "Trump v. Sierra Club",
-    "link": "https://api.oyez.org/cases/2020/20-138",
-    "term": "2020",
-    "id": 63280
-  },
-  {
-    "name": "Cochran v. Gresham",
-    "link": "https://api.oyez.org/cases/2020/20-37",
-    "term": "2020",
-    "id": 63330
-  },
-  {
-    "name": "Wooden v. United States",
-    "link": "https://api.oyez.org/cases/2021/20-5279",
-    "term": "2021",
-    "id": 63336
-  },
-  {
-    "name": "Department of Homeland Security v. New York",
-    "link": "https://api.oyez.org/cases/2021/20-449",
-    "term": "2021",
-    "id": 63337
-  },
-  {
-    "name": "American Medical Association v. Cochran",
-    "link": "https://api.oyez.org/cases/2021/20-429",
-    "term": "2021",
-    "id": 63338
-  },
-  {
-    "name": "Thompson v. Clark",
-    "link": "https://api.oyez.org/cases/2021/20-659",
-    "term": "2021",
-    "id": 63342
-  },
-  {
-    "name": "United States v. Vaello-Madero",
-    "link": "https://api.oyez.org/cases/2021/20-303",
-    "term": "2021",
-    "id": 63344
-  },
-  {
-    "name": "Servotronics, Inc. v. Rolls-Royce PLC",
-    "link": "https://api.oyez.org/cases/2021/20-794",
-    "term": "2021",
-    "id": 63347
-  },
-  {
-    "name": "Brown v. Davenport",
-    "link": "https://api.oyez.org/cases/2021/20-826",
-    "term": "2021",
-    "id": 63353
-  },
-  {
-    "name": "New York State Rifle & Pistol Association Inc. v. Bruen",
-    "link": "https://api.oyez.org/cases/2021/20-843",
-    "term": "2021",
-    "id": 63362
-  },
-  {
-    "name": "Dobbs v. Jackson Women's Health Organization",
-    "link": "https://api.oyez.org/cases/2021/19-1392",
-    "term": "2021",
-    "id": 63368
-  },
-  {
-    "name": "Shinn v. Ramirez",
-    "link": "https://api.oyez.org/cases/2021/20-1009",
-    "term": "2021",
-    "id": 63369
-  },
-  {
-    "name": "Badgerow v. Walters",
-    "link": "https://api.oyez.org/cases/2021/20-1143",
-    "term": "2021",
-    "id": 63370
-  },
-  {
-    "name": "Patel v. Garland",
-    "link": "https://api.oyez.org/cases/2021/20-979",
-    "term": "2021",
-    "id": 63376
-  },
-  {
-    "name": "City of Austin, Texas v. Reagan National Advertising of Texas Inc.",
-    "link": "https://api.oyez.org/cases/2021/20-1029",
-    "term": "2021",
-    "id": 63377
-  },
-  {
-    "name": "American Hospital Association v. Becerra",
-    "link": "https://api.oyez.org/cases/2021/20-1114",
-    "term": "2021",
-    "id": 63378
-  },
-  {
-    "name": "Cummings v. Premier Rehab Keller, P.L.L.C.",
-    "link": "https://api.oyez.org/cases/2021/20-219",
-    "term": "2021",
-    "id": 63379
-  },
-  {
-    "name": "Pivotal Software, Inc. v. Tran",
-    "link": "https://api.oyez.org/cases/2021/20-1541",
-    "term": "2021",
-    "id": 63380
-  },
-  {
-    "name": "Carson v. Makin",
-    "link": "https://api.oyez.org/cases/2021/20-1088",
-    "term": "2021",
-    "id": 63381
-  },
-  {
-    "name": "United States v. Taylor",
-    "link": "https://api.oyez.org/cases/2021/20-1459",
-    "term": "2021",
-    "id": 63383
-  },
-  {
-    "name": "Becerra v. Empire Health Foundation",
-    "link": "https://api.oyez.org/cases/2021/20-1312",
-    "term": "2021",
-    "id": 63384
-  },
-  {
-    "name": "Gallardo v. Marstiller",
-    "link": "https://api.oyez.org/cases/2021/20-1263",
-    "term": "2021",
-    "id": 63386
-  },
-  {
-    "name": "Boechler, P.C. v. Commissioner of Internal Revenue",
-    "link": "https://api.oyez.org/cases/2021/20-1472",
-    "term": "2021",
-    "id": 63404
-  },
-  {
-    "name": "Cassirer v. Thyssen-Bornemisza Collection Foundation",
-    "link": "https://api.oyez.org/cases/2021/20-1566",
-    "term": "2021",
-    "id": 63405
-  },
-  {
-    "name": "Concepcion v. United States",
-    "link": "https://api.oyez.org/cases/2021/20-1650",
-    "term": "2021",
-    "id": 63406
-  },
-  {
-    "name": "Ysleta del Sur Pueblo v. Texas",
-    "link": "https://api.oyez.org/cases/2021/20-493",
-    "term": "2021",
-    "id": 63407
-  },
-  {
-    "name": "Denezpi v. United States",
-    "link": "https://api.oyez.org/cases/2021/20-7622",
-    "term": "2021",
-    "id": 63408
-  },
-  {
-    "name": "Shurtleff v. Boston",
-    "link": "https://api.oyez.org/cases/2021/20-1800",
-    "term": "2021",
-    "id": 63409
-  },
-  {
-    "name": "Federal Election Commission v. Ted Cruz for Senate",
-    "link": "https://api.oyez.org/cases/2021/21-12",
-    "term": "2021",
-    "id": 63410
-  },
-  {
-    "name": "Ruan v. United States",
-    "link": "https://api.oyez.org/cases/2021/20-1410",
-    "term": "2021",
-    "id": 63417
-  },
-  {
-    "name": "Marietta Memorial Hospital Employee Health Benefit Plan v. DaVita, Inc.",
-    "link": "https://api.oyez.org/cases/2021/20-1641",
-    "term": "2021",
-    "id": 63418
-  },
-  {
-    "name": "Egbert v. Boule",
-    "link": "https://api.oyez.org/cases/2021/21-147",
-    "term": "2021",
-    "id": 63419
-  },
-  {
-    "name": "Morgan v. Sundance, Inc.",
-    "link": "https://api.oyez.org/cases/2021/21-328",
-    "term": "2021",
-    "id": 63420
-  },
-  {
-    "name": "Berger v. North Carolina State Conference of the NAACP",
-    "link": "https://api.oyez.org/cases/2021/21-248",
-    "term": "2021",
-    "id": 63421
-  },
-  {
-    "name": "Golan v. Saada",
-    "link": "https://api.oyez.org/cases/2021/20-1034",
-    "term": "2021",
-    "id": 63427
-  },
-  {
-    "name": "Southwest Airlines Co. v. Saxon",
-    "link": "https://api.oyez.org/cases/2021/21-309",
-    "term": "2021",
-    "id": 63428
-  },
-  {
-    "name": "ZF Automotive US, Inc. v. Luxshare, Ltd.",
-    "link": "https://api.oyez.org/cases/2021/21-401",
-    "term": "2021",
-    "id": 63429
-  },
-  {
-    "name": "Torres v. Texas Department of Public Safety",
-    "link": "https://api.oyez.org/cases/2021/20-603",
-    "term": "2021",
-    "id": 63430
-  },
-  {
-    "name": "Garland v. Gonzalez",
-    "link": "https://api.oyez.org/cases/2021/20-322",
-    "term": "2021",
-    "id": 63431
-  },
-  {
-    "name": "Viking River Cruises, Inc. v. Moriana",
-    "link": "https://api.oyez.org/cases/2021/20-1573",
-    "term": "2021",
-    "id": 63432
-  },
-  {
-    "name": "LeDure v. Union Pacific Railroad Company",
-    "link": "https://api.oyez.org/cases/2021/20-807",
-    "term": "2021",
-    "id": 63433
-  },
-  {
-    "name": "Johnson v. Arteaga-Martinez",
-    "link": "https://api.oyez.org/cases/2021/19-896",
-    "term": "2021",
-    "id": 63434
-  },
-  {
-    "name": "United States v. Washington",
-    "link": "https://api.oyez.org/cases/2021/21-404",
-    "term": "2021",
-    "id": 63437
-  },
-  {
-    "name": "Siegel v. Fitzgerald",
-    "link": "https://api.oyez.org/cases/2021/21-441",
-    "term": "2021",
-    "id": 63438
-  },
-  {
-    "name": "Kemp v. United States",
-    "link": "https://api.oyez.org/cases/2021/21-5726",
-    "term": "2021",
-    "id": 63439
-  },
-  {
-    "name": "Arizona v. City and County of San Francisco",
-    "link": "https://api.oyez.org/cases/2021/20-1775",
-    "term": "2021",
-    "id": 63445
-  },
-  {
-    "name": "West Virginia v. Environmental Protection Agency",
-    "link": "https://api.oyez.org/cases/2021/20-1530",
-    "term": "2021",
-    "id": 63446
-  },
-  {
-    "name": "Kennedy v. Bremerton School District",
-    "link": "https://api.oyez.org/cases/2021/21-418",
-    "term": "2021",
-    "id": 63448
-  },
-  {
-    "name": "George v. McDonough",
-    "link": "https://api.oyez.org/cases/2021/21-234",
-    "term": "2021",
-    "id": 63449
-  },
-  {
-    "name": "Vega v. Tekoh",
-    "link": "https://api.oyez.org/cases/2021/21-499",
-    "term": "2021",
-    "id": 63450
-  },
-  {
-    "name": "Nance v. Ward",
-    "link": "https://api.oyez.org/cases/2021/21-439",
-    "term": "2021",
-    "id": 63451
-  },
-  {
-    "name": "Shoop v. Twyford",
-    "link": "https://api.oyez.org/cases/2021/21-511",
-    "term": "2021",
-    "id": 63452
-  },
-  {
-    "name": "Students for Fair Admissions v. President and Fellows of Harvard College",
-    "link": "https://api.oyez.org/cases/2022/20-1199",
-    "term": "2022",
-    "id": 63453
-  },
-  {
-    "name": "Axon Enterprise, Inc. v. Federal Trade Commission",
-    "link": "https://api.oyez.org/cases/2022/21-86",
-    "term": "2022",
-    "id": 63454
-  },
-  {
-    "name": "Sackett v. Environmental Protection Agency",
-    "link": "https://api.oyez.org/cases/2022/21-454",
-    "term": "2022",
-    "id": 63455
-  },
-  {
-    "name": "303 Creative LLC v. Elenis",
-    "link": "https://api.oyez.org/cases/2022/21-476",
-    "term": "2022",
-    "id": 63456
-  },
-  {
-    "name": "Arellano v. McDonough",
-    "link": "https://api.oyez.org/cases/2022/21-432",
-    "term": "2022",
-    "id": 63457
+    "name": "Williams v. Johnson",
+    "link": "https://api.oyez.org/cases/2013/13-9085",
+    "term": "2013",
+    "id": 62269
   },
   {
     "name": "Delaware v. Pennsylvania and Wisconsin",
@@ -426,27 +408,45 @@
     "id": 63461
   },
   {
-    "name": "Haaland v. Brackeen",
-    "link": "https://api.oyez.org/cases/2022/21-376",
+    "name": "Securities and Exchange Commission v. Cochran",
+    "link": "https://api.oyez.org/cases/2022/21-1239",
     "term": "2022",
-    "id": 63462
+    "id": 63491
   },
   {
-    "name": "National Pork Producers Council v. Ross",
-    "link": "https://api.oyez.org/cases/2022/21-468",
+    "name": "Students for Fair Admissions v. University of North Carolina",
+    "link": "https://api.oyez.org/cases/2022/21-707",
     "term": "2022",
-    "id": 63473
+    "id": 63501
   },
   {
-    "name": "Cruz v. Arizona",
-    "link": "https://api.oyez.org/cases/2022/21-846",
+    "name": "Arizona v. Navajo Nation",
+    "link": "https://api.oyez.org/cases/2022/21-1484",
     "term": "2022",
-    "id": 63474
+    "id": 63525
   },
   {
-    "name": "Andy Warhol Foundation for the Visual Arts, Inc. v. Goldsmith",
-    "link": "https://api.oyez.org/cases/2022/21-869",
+    "name": "Department of the Interior v. Navajo Nation",
+    "link": "https://api.oyez.org/cases/2022/22-51",
     "term": "2022",
-    "id": 63475
+    "id": 63526
+  },
+  {
+    "name": "Arizona v. Mayorkas",
+    "link": "https://api.oyez.org/cases/2022/22-592",
+    "term": "2022",
+    "id": 63540
+  },
+  {
+    "name": "New York v. New Jersey",
+    "link": "https://api.oyez.org/cases/2022/156-orig",
+    "term": "2022",
+    "id": 63558
+  },
+  {
+    "name": "MHN Government Services, Inc., and Managed Health Network, Inc. v. Zaborowski, et al.",
+    "link": "https://api.oyez.org/cases/2015/14-1458",
+    "term": "2015",
+    "id": 62584
   }
 ]

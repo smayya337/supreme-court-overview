@@ -1,0 +1,51 @@
+{
+  "ID": 63691,
+  "name": "Feliciano v. Department of Transportation",
+  "href": "https://api.oyez.org/cases/2024/23-861",
+  "view_count": 0,
+  "docket_number": "23-861",
+  "additional_docket_numbers": null,
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "first_party": "Nick Feliciano",
+  "second_party": "Department of Transportation",
+  "timeline": [
+    {
+      "event": "Granted",
+      "dates": [
+        1719205200
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/55479"
+    }
+  ],
+  "lower_court": {
+    "ID": 17,
+    "name": "United States Court of Appeals for the Federal Circuit",
+    "href": "https://api.oyez.org/taxonomy/term/17"
+  },
+  "facts_of_the_case": "<p>Nick Feliciano, an air traffic controller for the Federal Aviation Administration and a Coast Guard reserve officer, performed active duty from July to September 2012 under 10 U.S.C. \u00a7 12302, receiving differential pay. His service was extended to July 2013 without differential pay. From July 2013 to September 2014, he served again under 10 U.S.C. \u00a7 12301(d) to support various operations, followed by medical treatment until February 2017 under 10 U.S.C. \u00a7 12301(h). In 2018, he filed an appeal alleging a hostile work environment and later amended it to include claims about denied differential pay under 5 U.S.C. \u00a7 5538. The Board denied his request for differential pay, citing Adams v. Department of Homeland Security, 3 F.4th 1375 (Fed. Cir. 2021), which required service in a statutory contingency operation for eligibility. Mr. Feliciano appealed this decision.</p>\n",
+  "question": "<p>Is a federal civilian employee called or ordered to active duty under a provision of law during a national emergency is entitled to differential pay even if the duty is not directly connected to the national emergency.</p>\n",
+  "conclusion": null,
+  "advocates": null,
+  "oral_argument_audio": null,
+  "citation": {
+    "volume": null,
+    "page": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/28025"
+  },
+  "decisions": null,
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    null
+  ],
+  "decided_by": null,
+  "term": "2024",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the Court will decide whether a federal civilian employee called or ordered to active duty under a provision of law during a national emergency is entitled to differential pay even if the duty is not directly connected to the national emergency.",
+  "written_opinion": null,
+  "related_cases": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-861/",
+  "argument2_url": null
+}

@@ -1,0 +1,51 @@
+{
+  "ID": 63695,
+  "name": "Stanley v. City of Sanford, Florida",
+  "href": "https://api.oyez.org/cases/2024/23-997",
+  "view_count": 0,
+  "docket_number": "23-997",
+  "additional_docket_numbers": null,
+  "manner_of_jurisdiction": "Writ of <i>certiorari</i>",
+  "first_party": "Karyn D. Stanley",
+  "second_party": "City of Sanford, Florida",
+  "timeline": [
+    {
+      "event": "Granted",
+      "dates": [
+        1719205200
+      ],
+      "href": "https://api.oyez.org/case_timeline/case_timeline/55483"
+    }
+  ],
+  "lower_court": {
+    "ID": 15,
+    "name": "United States Court of Appeals for the Eleventh Circuit",
+    "href": "https://api.oyez.org/taxonomy/term/15"
+  },
+  "facts_of_the_case": "<p>Karyn Stanley, a firefighter for the City of Sanford, Florida, retired due to Parkinson's disease in 2018 after serving for about 19 years. When she joined in 1999, the City's policy provided free health insurance until age 65 for employees retiring due to disability. However, in 2003, the City changed its plan, limiting the health insurance subsidy for disability retirees to 24 months post-retirement. Unaware of this change, Stanley filed suit in April 2020, shortly before her subsidy was set to expire, alleging violations of the Americans with Disabilities Act, Rehabilitation Act, Florida Civil Rights Act, Equal Protection Clause, and Florida Statutes section 112.0801. The district court dismissed or granted summary judgment on all claims in favor of the City, the U.S. Court of Appeals for the Eleventh Circuit affirmed, relying on (and reaffirming) binding precedent within that circuit that \u201ca Title I plaintiff must \u2018hold[ ] or desire[ ]\u2019 an employment position with the defendant at the time of the defendant's allegedly wrongful act.\u201d</p>\n",
+  "question": "<p>Under the Americans with Disabilities Act, does a former employee \u2014 who was qualified to perform her job and who earned post-employment benefits while employed \u2014 lose her right to sue over discrimination with respect to those benefits solely because she no longer holds her job?</p>\n",
+  "conclusion": null,
+  "advocates": null,
+  "oral_argument_audio": null,
+  "citation": {
+    "volume": null,
+    "page": null,
+    "year": null,
+    "href": "https://api.oyez.org/case_citation/case_citation/28029"
+  },
+  "decisions": null,
+  "first_party_label": "Petitioner",
+  "second_party_label": "Respondent",
+  "heard_by": [
+    null
+  ],
+  "decided_by": null,
+  "term": "2024",
+  "location": null,
+  "opinion_announcement": null,
+  "description": "A case in which the Court will decide whether, under the Americans with Disabilities Act, a former employee\u2014who was qualified to perform her job and who earned post-employment benefits while employed\u2014loses her right to sue over discrimination with respect to those benefits solely because she no longer holds her job.",
+  "written_opinion": null,
+  "related_cases": null,
+  "justia_url": "https://supreme.justia.com/cases/federal/us/2024/23-997/",
+  "argument2_url": null
+}
