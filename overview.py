@@ -136,23 +136,25 @@ while True:
     if year == "undecided":
         print("undecided")
     else:
-        if case["decisions"][-1]["winning_party"]:
-            winner = max(
-                [case["first_party"], case["second_party"]],
-                key=lambda c: fuzz.partial_ratio(
-                    c, case["decisions"][-1]["winning_party"]
-                ),
+        if case["decisions"]:
+            if case["decisions"][-1]["winning_party"]:
+                winner = max(
+                    [case["first_party"], case["second_party"]],
+                    key=lambda c: fuzz.partial_ratio(
+                        c, case["decisions"][-1]["winning_party"]
+                    ),
+                )
+                print(
+                    f"in favor of {BOLD}{YELLOW if winner == case['first_party'] else PURPLE}{winner}{END}",
+                    end=", ",
+                )
+            print(
+                f"{GREEN}{case['decisions'][-1]['majority_vote']}{END}-{RED}{case['decisions'][-1]['minority_vote']}{END}"
             )
             print(
-                f"in favor of {BOLD}{YELLOW if winner == case['first_party'] else PURPLE}{winner}{END}",
-                end=", ",
+                f"({GREEN}green{END} is majority, {RED}red{END} is minority, {BLUE}blue{END} is neither)"
             )
-        print(
-            f"{GREEN}{case['decisions'][-1]['majority_vote']}{END}-{RED}{case['decisions'][-1]['minority_vote']}{END}"
-        )
-        print(
-            f"({GREEN}green{END} is majority, {RED}red{END} is minority, {BLUE}blue{END} is neither)"
-        )
-        print(decision_string(case))
-        print(process_text(case["conclusion"]))
+            print(decision_string(case))
+        if case["conclusion"]:
+            print(process_text(case["conclusion"]))
     print()
